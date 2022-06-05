@@ -1,0 +1,688 @@
+"",,,,,,,,,,,,,,,,,,,,,,,,,,,
+"",Categoria,Marca,Modelo,Versão,Motor,"Tipo dePropulsãoCombustãoHíbridoPlug-inElétrico","TransmissãoVelocidades(no)","ArCond.","DireçãoAssistida",Combustível,,Emissões no Escapamento,Quilometragem por Litro,,"ConsumoEnergético(MJ/km)","ClassificaçãoPBE","SeloCONPETdeEficiênciaEnergética((A+B).A).(A.(A+B))",,,,,,,,,,
+"",,,,,,"Manual (M)Automática (A)Automática DuplaEmbreagem (DCT)Automatizada(MTA)Contínua (CVT)","Hidráulica(H)Mecânica(M)Elétrica(E)Eletro-hidráulica(E-H)","Elétrico (E)Gasolina (G)Flex (F)Diesel (D)",,Poluentes,Gás Efeito Estufa,,,,,,,,,,,,,,,,
+"",,,,,,,,,,,"NMOG+NOx(mg/km)","CO(mg/km)","CHO(mg/km)","ReduçãoRelativaaoLimite",Etanol,"GasolinaouDiesel",Etanol,"Gasolina ou Dieselou Elétrico(km/l equivalente)",,,,,,,,,
+"",,,,,,,"Sim(S)Não(N)","CO2fóssil(g/km)","CO2fóssil(g/km)","Cidade(km/l)","Estrada(km/l)","Cidade(km/l)","Estrada(km/l)",,"ComparaçãoRelativanaCategoria","ComparaçãoAbsolutaGeral",,,,,,,,,,,
+"",Sub Compacto,FIAT,500E,ICON,Elétrico,Elétrico,A-1,S,E,E,,"0,000","0,000","0,000",A,\,\,\,\,"47,3","40,4",,"0,46",A,A,-,
+"",Sub Compacto,FIAT,MOBI,EASY,1.0-8V,Combustão,M-5,N,M,F,,"37,900","262,850","2,529",A,0,88,"9,8","11,0","14,2","15,5",,"1,44",B,B,-,
+"",Sub Compacto,FIAT,MOBI,TREKKING,1.0-8V,Combustão,M-5,S,H,F,,"40,225","256,900","2,403",A,0,93,"9,6","10,4","13,5","15,0",,"1,50",C,B,-,
+"",Sub Compacto,FIAT,MOBI,LIKE,1.0-8V,Combustão,M-5,S,H,F,,"40,225","256,900","2,403",A,0,93,"9,6","10,4","13,5","15,0",,"1,50",C,B,-,
+"",Sub Compacto,Jac,e-JS1,e-JS1,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,\,\,\,"60,3","52,9",,"0,36",A,A,-,
+"",Sub Compacto,Jac,e-JS1,e-JS1 EXT,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,\,\,\,"60,3","52,9",,"0,36",A,A,-,
+"",Sub Compacto,Jac,IEV 20,iEV20,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,\,\,\,"36,5","33,3",,"0,58",A,A,-,
+"",Sub Compacto,Renault,E-KWID,INTENS,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,\,\,\,"52,7","39,6",,"0,44",A,A,-,
+"",Compacto,FIAT,ARGO,1.0,1.0-6V,Combustão,M-5,S,E,F,,"31,424","483,700","2,625",B,0,92,"9,6","10,6","13,6","15,1",,"1,49",A,B,SIM,
+"",Compacto,FIAT,ARGO,DRIVE,1.0-6V,Combustão,M-5,S,E,F,,"39,690","526,400","2,997",B,0,88,"9,8","11,0","14,1","15,8",,"1,43",A,B,SIM,
+"",Compacto,FIAT,ARGO,DRIVE,1.3-8V,Combustão,M-5,S,E,F,,"35,130","227,710","2,685",A,0,95,"9,1","10,5","13,1","15,0",,"1,54",B,B,-,
+"",Compacto,FIAT,CRONOS,DRIVE,1.3-8V,Combustão,M-5,S,E,F,,"37,405","336,280","2,391",A,0,93,"9,1","11,2","13,0","15,9",,"1,50",A,B,SIM,
+"",Compacto,FIAT,CRONOS,1.3,1.3-8V,Combustão,M-5,S,E,F,,"37,405","336,280","2,391",A,0,93,"9,1","11,2","13,0","15,9",,"1,50",A,B,SIM,
+"",Compacto,Hyundai,HB20,Sense,1.0-12V,Combustão,M-5,S,E,F,,"28,105","137,130","1,296",A,0,95,"9,8","10,7","13,1","15,0",,"1,50",A,B,SIM,
+"",Compacto,Hyundai,HB20,Vision,1.0-12V,Combustão,M-5,S,E,F,,"28,105","137,130","1,296",A,0,95,"9,8","10,7","13,1","15,0",,"1,50",A,B,SIM,
+"",Compacto,Hyundai,HB20,Evolution,1.0-12V,Combustão,M-5,S,E,F,,"28,105","137,130","1,296",A,0,95,"9,8","10,7","13,1","15,0",,"1,50",A,B,SIM,
+"",Compacto,Hyundai,HB20,Sport,1.0-12V T,Combustão,A-6,S,E,F,,"15,575","77,315","2,391",A,0,101,"8,6","10,2","12,2","14,4",,"1,63",C,B,-,
+"",Compacto,Hyundai,HB20,Vision,1.0-12V T,Combustão,A-6,S,E,F,,"14,990","91,910","2,436",A,0,102,"8,6","10,2","12,2","14,3",,"1,64",C,B,-,
+"",Compacto,Hyundai,HB20,Platinum,1.0-12V T,Combustão,A-6,S,E,F,,"14,990","91,910","2,436",A,0,102,"8,6","10,2","12,2","14,3",,"1,64",C,B,-,
+"",Compacto,Hyundai,HB20,Platinum Plus,1.0-12V T,Combustão,A-6,S,E,F,,"14,990","91,910","2,436",A,0,102,"8,6","10,2","12,2","14,3",,"1,64",C,B,-,
+"",Compacto,Hyundai,HB20,Platinum,1.0-12V T,Combustão,M-6,S,E,F,,"18,415","70,595","2,247",A,0,91,"9,5","10,9","13,7","15,5",,"1,47",A,B,SIM,
+"",Compacto,MINI,Cooper,S Electric,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"38,5","31,8",,"0,58",A,A,-,
+"",Compacto,MINI,Cooper,S 5P,2.0 - 16V,Combustão,DCT-7,S,E-H,G,,"4,950","101,000","1,200",A,\,118,\,\,"10,3","13,2",,"1,91",E,C,-,
+"",Compacto,MINI,JCW,Hatch 3P,2.0 - 16V,Combustão,A-8,S,E-H,G,,"6,260","133,800","0,350",A,\,116,\,\,"10,3","13,9",,"1,88",E,C,-,
+"",Compacto,MINI,Cooper,S 3P,2.0 - 16V,Combustão,DCT-7,S,E-H,G,,"6,420","93,750","0,250",A,\,117,\,\,"10,3","13,4",,"1,90",E,C,-,
+"",Compacto,PEUGEOT,E-208,GT,Elétrico,Elétrico,A-1,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"37,8","30,8",,"0,59",A,A,-,
+"",Compacto,PEUGEOT,208,ACTIVE AT1,1.6-16V,Combustão,A-6,S,E,F,,"31,000","497,000","2,000",B,0,112,"7,7","9,1","11,1","12,9",,"1,82",E,C,-,
+"",Compacto,PEUGEOT,208,ALLURE AT,1.6-16V,Combustão,A-6,S,E,F,,"31,000","497,000","2,000",B,0,112,"7,7","9,1","11,1","12,9",,"1,82",E,C,-,
+"",Compacto,PEUGEOT,208,GRIFFE AT,1.6-16V,Combustão,A-6,S,E,F,,"31,000","497,000","2,000",B,0,112,"7,7","9,1","11,1","12,9",,"1,82",E,C,-,
+"",Compacto,PEUGEOT,208,LIKE MT,1.0-6V,Combustão,MT-5,S,E,F,,"35,235","286,650","2,274",B,0,85,"10,4","11,3","14,7","16,3",,"1,37",A,B,SIM,
+"",Compacto,PEUGEOT,208,STYLE MT,1.0-6V,Combustão,MT-5,S,E,F,,"38,605","385,350","3,900",B,0,91,"9,6","11,0","13,6","15,5",,"1,47",A,B,SIM,
+"",Compacto,Renault,Sandero,SEDTION BS,1.0-12V,Combustão,M-5,S,E-H,F,,"57,400","133,000","2,520",B,0,93,"10,0","10,2","13,9","14,7",,"1,48",A,B,SIM,
+"",Compacto,Renault,Sandero,SEDITION,1.0-12V,Combustão,M-5,S,E-H,F,,"57,400","133,000","2,520",B,0,93,"10,0","10,2","13,9","14,7",,"1,48",A,B,SIM,
+"",Compacto,Renault,Sandero,LIFE10MT,1.0-12V,Combustão,M-5,S,E-H,F,,"57,400","133,000","2,520",B,0,93,"10,0","10,2","13,9","14,7",,"1,48",A,B,SIM,
+"",Compacto,Renault,Sandero,RLIN,1.0-12V,Combustão,M-5,S,E-H,F,,"57,400","133,000","2,520",B,0,93,"10,0","10,2","13,9","14,7",,"1,48",A,B,SIM,
+"",Compacto,Renault,Sandero,ZEN10MT,1.0-12V,Combustão,M-5,S,E-H,F,,"57,400","133,000","2,520",B,0,93,"10,0","10,2","13,9","14,7",,"1,48",A,B,SIM,
+"",Compacto,VW,GOL,MPI,1.0-12V,Combustão,M - 5,S,H,F,,"38,050","164,010","3,553",B,0,92,"9,4","10,7","13,7","15,2",,"1,49",A,B,SIM,
+"",Médio,AUDI,A3 Sportback,S line,2.0 - 16V,Híbrido,A-7,S,E,G,,"16,500","128,200","1,260",A,\,122,\,\,"10,2","12,4",,"1,98",E,C,-,
+"",Médio,AUDI,A3 Sportback,Performance Black (ed.0),2.0 - 16V,Híbrido,A-7,S,E,G,,"16,500","128,200","1,260",A,\,122,\,\,"10,2","12,4",,"1,98",E,C,-,
+"",Médio,AUDI,A3 Sportback,S line,2.0 - 16V,Híbrido,A-7,S,E,G,,"12,544","137,300","0,218",A,\,125,\,\,"10,0","11,9",,"2,03",E,C,-,
+"",Médio,AUDI,A3 Sportback,Performance Black,2.0 - 16V,Híbrido,A-7,S,E,G,,"12,544","137,300","0,218",A,\,125,\,\,"10,0","11,9",,"2,03",E,C,-,
+"",Médio,BMW,118i,-,1.5 - 12V,Combustão,DCT-7,S,E-H,G,,"10,500","160,000","1,050",A,\,110,\,\,"11,5","13,0",,"1,78",C,C,-,
+"",Médio,BMW,i3,120Ah BEV,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"47,7","39,4",,"0,47",A,A,-,
+"",Médio,CHEVROLET,BOLT,LT,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"45,3","36,3",,"0,50",A,A,-,
+"",Médio,CHEVROLET,BOLT,PREMIER,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"45,3","36,3",,"0,50",A,A,-,
+"",Médio,CHEVROLET,ONIX,10MT HB,1.0 - 12 V,Combustão,M-6,S,E,F,,"37,020","335,082","3,660",B,0,88,"9,5","12,0","13,8","16,6",,"1,42",A,B,SIM,
+"",Médio,CHEVROLET,ONIX,10MT LT1,1.0 - 12 V,Combustão,M-6,S,E,F,,"37,020","335,082","3,660",B,0,88,"9,5","12,0","13,8","16,6",,"1,42",A,B,SIM,
+"",Médio,CHEVROLET,ONIX,10MT LT2,1.0 - 12 V,Combustão,M-6,S,E,F,,"37,020","335,082","3,660",B,0,88,"9,5","12,0","13,8","16,6",,"1,42",A,B,SIM,
+"",Médio,CHEVROLET,ONIX,10TAT HB,1.0T - 12 V,Combustão,A-6,S,E,F,,"46,596","192,604","3,720",B,0,101,"8,4","10,4","11,9","15,1",,"1,64",B,B,-,
+"",Médio,CHEVROLET,ONIX,10TAT LT1,1.0T - 12 V,Combustão,A-6,S,E,F,,"46,596","192,604","3,720",B,0,101,"8,4","10,4","11,9","15,1",,"1,64",B,B,-,
+"",Médio,CHEVROLET,ONIX,10TAT LTZ,1.0T - 12 V,Combustão,A-6,S,E,F,,"46,596","192,604","3,720",B,0,101,"8,4","10,4","11,9","15,1",,"1,64",B,B,-,
+"",Médio,CHEVROLET,ONIX,10TAT PR2,1.0T - 12 V,Combustão,A-6,S,E,F,,"46,596","192,604","3,720",B,0,101,"8,4","10,4","11,9","15,1",,"1,64",B,B,-,
+"",Médio,CHEVROLET,ONIX,10TAT RS,1.0T - 12 V,Combustão,A-6,S,E,F,,"35,168","165,242","1,980",B,0,105,"8,2","9,8","11,8","14,0",,"1,70",C,B,-,
+"",Médio,CHEVROLET,ONIX,10TMT LT1,1.0T - 12 V,Combustão,M-6,S,E,F,,"56,568","280,456","3,420",C,0,92,"9,1","11,1","13,1","16,1",,"1,50",A,B,SIM,
+"",Médio,CHEVROLET,ONIX,10TMT LTZ,1.0T - 12 V,Combustão,M-6,S,E,F,,"56,568","280,456","3,420",C,0,92,"9,1","11,1","13,1","16,1",,"1,50",A,B,SIM,
+"",Médio,CHEVROLET,ONIX PLUS,10MT LT1,1.0 - 12 V,Combustão,M-6,S,E,F,,"53,222","354,342","3,420",C,0,86,"9,6","12,5","13,8","17,6",,"1,38",A,B,SIM,
+"",Médio,CHEVROLET,ONIX PLUS,10MT LT2,1.0 - 12 V,Combustão,M-6,S,E,F,,"53,222","354,342","3,420",C,0,86,"9,6","12,5","13,8","17,6",,"1,38",A,B,SIM,
+"",Médio,CHEVROLET,ONIX PLUS,10TAT NB,1.0T - 12 V,Combustão,A-6,S,E,F,,"45,441","216,337","3,480",B,0,95,"8,4","12,2","12,3","16,8",,"1,53",A,B,SIM,
+"",Médio,CHEVROLET,ONIX PLUS,10TAT LT1,1.0T - 12 V,Combustão,A-6,S,E,F,,"45,441","216,337","3,480",B,0,95,"8,4","12,2","12,3","16,8",,"1,53",A,B,SIM,
+"",Médio,CHEVROLET,ONIX PLUS,10TAT LTZ,1.0T - 12 V,Combustão,A-6,S,E,F,,"45,441","216,337","3,480",B,0,95,"8,4","12,2","12,3","16,8",,"1,53",A,B,SIM,
+"",Médio,CHEVROLET,ONIX PLUS,10TAT PR2,1.0T - 12 V,Combustão,A-6,S,E,F,,"45,441","216,337","3,480",B,0,95,"8,4","12,2","12,3","16,8",,"1,53",A,B,SIM,
+"",Médio,CHEVROLET,ONIX PLUS,10TMT LT1,1.0T - 12 V,Combustão,M-6,S,E,F,,"47,416","277,286","3,960",B,0,89,"9,3","11,8","13,4","16,9",,"1,44",A,B,SIM,
+"",Médio,CHEVROLET,ONIX PLUS,10TMT LTZ,1.0T - 12 V,Combustão,M-6,S,E,F,,"47,416","277,286","3,960",B,0,89,"9,3","11,8","13,4","16,9",,"1,44",A,B,SIM,
+"",Médio,CHEVROLET,SPIN,1.8L AT LS,1.8L -8V,Combustão,A-6,S,E,F,,"28,213","327,277","1,440",B,0,118,"7,2","8,9","10,5","12,9",,"1,91",D,C,-,
+"",Médio,CHEVROLET,SPIN,1.8L AT LT,1.8L -8V,Combustão,A-6,S,E,F,,"28,213","327,277","1,440",B,0,118,"7,2","8,9","10,5","12,9",,"1,91",D,C,-,
+"",Médio,CHEVROLET,SPIN,1.8L AT ACT,1.8L -8V,Combustão,A-6,S,E,F,,"37,520","320,948","2,400",B,0,124,"6,9","8,7","10,0","12,4",,"2,00",E,C,-,
+"",Médio,CHEVROLET,SPIN,1.8L AT LTZ5,1.8L -8V,Combustão,A-6,S,E,F,,"37,520","320,948","2,400",B,0,124,"6,9","8,7","10,0","12,4",,"2,00",E,C,-,
+"",Médio,CHEVROLET,SPIN,1.8L AT ACT,1.8L -8V,Combustão,A-6,S,E,F,,"33,769","303,555","2,130",B,0,125,"6,9","8,6","9,8","12,3",,"2,02",E,C,-,
+"",Médio,CHEVROLET,SPIN,1.8L AT LT / 1.8L AT LS,1.8L -8V,Combustão,A-6,S,E,F,,"28,677","324,528","1,410",B,0,121,"7,2","8,8","10,2","12,6",,"1,94",D,C,-,
+"",Médio,CHEVROLET,SPIN,1.8L AT LTZ5,1.8L -8V,Combustão,A-6,S,E,F,,"33,769","303,555","2,130",B,0,125,"6,9","8,6","9,8","12,3",,"2,02",E,C,-,
+"",Médio,HONDA,CITY,EX,1.5-16V,Combustão,CVT,S,E,F,,"19,700","93,100","1,350",A,0,94,"9,2","10,5","13,1","15,2",,"1,53",A,B,SIM,
+"",Médio,HONDA,CITY,EXL,1.5-16V,Combustão,CVT,S,E,F,,"19,700","93,100","1,350",A,0,94,"9,2","10,5","13,1","15,2",,"1,53",A,B,SIM,
+"",Médio,HONDA,CITY,TOURING,1.5-16V,Combustão,CVT,S,E,F,,"19,700","93,100","1,350",A,0,94,"9,2","10,5","13,1","15,2",,"1,53",A,B,SIM,
+"",Médio,HONDA,CITY HATCH,EXL,1.5-16V,Combustão,CVT,S,E,F,,"22,740","83,580","1,680",A,0,95,"9,1","10,5","13,3","14,8",,"1,53",A,B,SIM,
+"",Médio,HONDA,CITY HATCH,TOURING,1.5-16V,Combustão,CVT,S,E,F,,"22,740","83,580","1,680",A,0,95,"9,1","10,5","13,3","14,8",,"1,53",A,B,SIM,
+"",Médio,Hyundai,HB20S,Vision,1.0-12V,Combustão,M-5,S,E,F,,"19,090","127,645","1,782",A,0,91,"10,0","10,6","13,7","15,2",,"1,46",A,B,SIM,
+"",Médio,Hyundai,HB20S,Evolution,1.0-12V,Combustão,M-5,S,E,F,,"19,090","127,645","1,782",A,0,91,"10,0","10,6","13,7","15,2",,"1,46",A,B,SIM,
+"",Médio,Hyundai,HB20S,Vision,1.0-12V T,Combustão,A-6,S,E,F,,"18,775","115,395","2,907",A,0,98,"8,6","10,9","12,3","15,5",,"1,58",B,B,-,
+"",Médio,Hyundai,HB20S,Platinum,1.0-12V T,Combustão,A-6,S,E,F,,"18,775","115,395","2,907",A,0,98,"8,6","10,9","12,3","15,5",,"1,58",B,B,-,
+"",Médio,Hyundai,HB20S,Platinum Plus,1.0-12V T,Combustão,A-6,S,E,F,,"18,775","115,395","2,907",A,0,98,"8,6","10,9","12,3","15,5",,"1,58",B,B,-,
+"",Médio,Hyundai,HB20S,Platinum,1.0-12V T,Combustão,M-6,S,E,F,,"17,270","76,020","2,169",A,0,85,"10,1","11,9","14,3","16,9",,"1,37",A,B,SIM,
+"",Médio,KIA,STONIC,MHEV EX,1.0 - 12V,Híbrido,DCT-7,S,E,G,,"38,730","144,600","0,360",A,\,95,\,\,"13,7","13,8",,"1,55",B,B,-,
+"",Médio,KIA,STONIC,LX,1.0 - 12V,Híbrido,DCT-7,S,E,G,,"38,730","144,600","0,360",A,\,95,\,\,"13,7","13,8",,"1,55",B,B,-,
+"",Médio,KIA,STONIC,SX,1.0 - 12V,Híbrido,DCT-7,S,E,G,,"38,730","144,600","0,360",A,\,95,\,\,"13,7","13,8",,"1,55",B,B,-,
+"",Médio,KIA,STONIC,GT,1.0 - 12V,Híbrido,DCT-7,S,E,G,,"38,730","144,600","0,360",A,\,95,\,\,"13,7","13,8",,"1,55",B,B,-,
+"",Médio,Mercedes-Benz,A250,,2.0-16V,Combustão,DCT-7,S,E,G,,"13,100","140,800","0,000",A,\,122,\,\,"9,7","13,5",,"1,97",E,C,-,
+"",Médio,Mercedes-Benz,AMG A35 4MATIC,,2.0-16V,Combustão,DCT-7,S,E,G,,"34,800","81,000","1,690",A,\,139,\,\,"8,7","11,7",,"2,25",E,C,-,
+"",Médio,MINI,Countryman,JCW,2.0 - 16V,Combustão,A-8,S,E-H,G,,"24,900","57,500","0,950",A,\,141,\,\,"8,8","10,8",,"2,29",E,C,-,
+"",Médio,MINI,Countryman,PHEV,1.5 - 12V,Plug-in,A-6,S,E-H,G,,"10,150","127,500","0,454",A,\,59,\,\,"23,3","27,0",,"0,80",A,A,SIM,
+"",Médio,Renault,Zoe,Life,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"34,4","27,4",,"0,66",A,A,-,
+"",Médio,Renault,Zoe,Intense,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"34,4","27,4",,"0,66",A,A,-,
+"",Médio,Renault,Logan,ZEN16CVT,1.6-16V,Combustão,CVT,S,E-H,F,,"40,600","223,000","3,800",B,0,119,"7,4","8,5","10,7","12,2",,"1,92",D,C,-,
+"",Médio,Renault,Logan,LIFE,1.0-12V,Combustão,M-5,S,E-H,F,,"49,980","255,300","2,442",B,0,95,"9,6","9,8","13,6","14,4",,"1,53",A,B,SIM,
+"",Médio,Renault,Logan,ZEN,1.0-12V,Combustão,M-5,S,E-H,F,,"49,980","255,300","2,442",B,0,95,"9,6","9,8","13,6","14,4",,"1,53",A,B,SIM,
+"",Médio,TOYOTA,YARIS HATCHBACK,XS,1.5 - 16V,Combustão,CVT,S,E,F,,"34,860","336,605","2,000",B,0,103,"8,7","9,8","12,2","13,9",,"1,65",B,B,-,
+"",Médio,TOYOTA,YARIS HATCHBACK,XL,1.5 - 16V,Combustão,CVT,S,E,F,,"34,860","336,605","2,000",B,0,103,"8,7","9,8","12,2","13,9",,"1,65",B,B,-,
+"",Médio,TOYOTA,YARIS HATCHBACK,XLS,1.5 - 16V,Combustão,CVT,S,E,F,,"34,860","336,605","2,000",B,0,103,"8,7","9,8","12,2","13,9",,"1,65",B,B,-,
+"",Médio,TOYOTA,YARIS SEDÃ,XS,1.5 - 16V,Combustão,CVT,S,E,F,,"32,888","303,733","1,794",B,0,97,"8,9","10,5","12,9","14,7",,"1,56",B,B,-,
+"",Médio,TOYOTA,YARIS SEDÃ,XL,1.5 - 16V,Combustão,CVT,S,E,F,,"32,888","303,733","1,794",B,0,97,"8,9","10,5","12,9","14,7",,"1,56",B,B,-,
+"",Médio,TOYOTA,YARIS SEDÃ,XLS,1.5 - 16V,Combustão,CVT,S,E,F,,"32,888","303,733","1,794",B,0,97,"8,9","10,5","12,9","14,7",,"1,56",B,B,-,
+"",Médio,VW,T CROSS,SENSE 200 TSI AUTOMATICO,1.0-12V,Combustão,A - 6,S,E,F,,"48,820","211,407","2,911",B,0,102,"8,3","10,0","12,0","14,4",,"1,66",B,B,-,
+"",Médio,VW,T CROSS,200TSI  AUTOMÁTICO,1.0-12V,Combustão,A - 6,S,E,F,,"48,820","211,407","2,911",B,0,102,"8,3","10,0","12,0","14,4",,"1,66",B,B,-,
+"",Médio,VW,T CROSS,"COMFORTLINE 200TSIAUTOMÁTICO",1.0-12V,Combustão,A - 6,S,E,F,,"48,820","211,407","2,911",B,0,102,"8,3","10,0","12,0","14,4",,"1,66",B,B,-,
+"",Médio,VW,POLO,"COMFORTLINE 200TSIAUTOMATIC",1.0-12V,Combustão,A - 6,S,E,F,,"51,516","219,856","5,744",B,0,99,"8,4","10,3","12,2","15,1",,"1,62",B,B,-,
+"",Médio,VW,POLO,"HIGHLINE 200TSIAUTOMATIC",1.0-12V,Combustão,A - 6,S,E,F,,"51,516","219,856","5,744",B,0,99,"8,4","10,3","12,2","15,1",,"1,62",B,B,-,
+"",Médio,VW,VIRTUS,"COMFORTLINE 200TSIAUTOMATIC",1.0-12V,Combustão,A - 6,S,E,F,,"51,725","255,703","5,250",B,0,114,"8,3","10,5","12,0","14,9",,"1,64",B,B,-,
+"",Médio,VW,VIRTUS,"HIGHLINE 200TSIAUTOMATIC",1.0-12V,Combustão,A - 6,S,E,F,,"51,725","255,703","5,250",B,0,114,"8,3","10,5","12,0","14,9",,"1,64",B,B,-,
+"",Médio,VW,POLO,GTS  250TSI AUTOMÁTICO,1.4-16V,Combustão,A - 6,S,E,F,,"36,037","141,750","4,117",B,0,106,"8,0","10,0","11,6","14,2",,"1,71",C,B,-,
+"",Médio,VW,POLO,TSI MANUAL,1.0-12V,Combustão,M - 5,S,E,F,,"40,816","301,301","4,074",B,0,88,"9,6","11,6","13,8","16,5",,"1,42",A,B,SIM,
+"",Médio,VW,VIRTUS,GTS  250TSI AUTOMÁTICO,1.4-16V,Combustão,A - 6,S,E,F,,"39,785","190,932","3,497",B,0,102,"8,0","10,0","11,9","14,7",,"1,68",C,B,-,
+"",Médio,VW,VIRTUS,TSI MANUAL,1.0-12V,Combustão,M - 5,S,E,F,,"43,399","227,479","4,119",B,0,89,"9,6","11,4","13,8","16,3",,"1,44",A,B,SIM,
+"",Médio,VW,T CROSS,"HIGHLINE 250TSIAUTOMÁTICO",1.4-16V,Combustão,A - 6,S,E,F,,"44,876","214,907","4,261",B,0,104,"8,2","10,0","11,8","14,2",,"1,69",C,B,-,
+"",Médio,VW,VIRTUS,TSI AUTOMÁTICO,1.0-12V,Combustão,A - 6,S,E,F,,"45,150","162,550","4,565",B,0,97,"8,7","11,0","12,4","15,6",,"1,57",B,B,-,
+"",Médio,VW,POLO,MPI,1.0-12V,Combustão,M - 5,S,E,F,,"37,850","156,730","3,434",B,0,91,"9,5","10,9","13,8","15,5",,"1,47",A,B,SIM,
+"",Médio,VW,VOYAGE,MPI,1.0-12V,Combustão,M - 5,S,H,F,,"40,000","154,700","3,892",B,0,91,"9,5","10,9","13,8","15,6",,"1,47",A,B,SIM,
+"",Grande,AUDI,A3 Sedan,S line  (ed.0),2.0 - 16V,Híbrido,A-7,S,E,G,,"19,100","118,300","1,740",A,\,116,\,\,"10,5","13,1",,"1,89",B,C,-,
+"",Grande,AUDI,A3 Sedan,Performance Black (ed.0),2.0 - 16V,Híbrido,A-7,S,E,G,,"19,100","118,300","1,740",A,\,116,\,\,"10,5","13,1",,"1,89",B,C,-,
+"",Grande,AUDI,A3 Sedan,S line,2.0 - 16V,Híbrido,A-7,S,E,G,,"12,647","137,500","0,218",A,\,121,\,\,"10,2","12,6",,"1,96",C,C,-,
+"",Grande,AUDI,A3 Sedan,Performance Black,2.0 - 16V,Híbrido,A-7,S,E,G,,"12,647","137,500","0,218",A,\,121,\,\,"10,2","12,6",,"1,96",C,C,-,
+"",Grande,BMW,218i,-,1.5 - 12V,Combustão,DCT-7,S,E-H,G,,"18,300","122,000","1,000",A,\,110,\,\,"11,2","13,6",,"1,78",A,C,-,
+"",Grande,BMW,X1,S20i ActiveFlex,2.0 - 16V,Combustão,A-8,S,E-H,F,,"31,900","240,500","0,450",A,0,126,"6,8","8,4","9,8","12,2",,"2,04",D,C,-,
+"",Grande,BMW,X1,sDrive 20i X Line,2.0 - 16V,Combustão,A-8,S,E-H,F,,"27,850","263,000","0,350",A,0,130,"6,7","8,3","9,5","11,7",,"2,09",D,C,-,
+"",Grande,BMW,X1,sDrive 20i M Sport,2.0 - 16V,Combustão,A-8,S,E-H,F,,"27,850","263,000","0,350",A,0,130,"6,7","8,3","9,5","11,7",,"2,09",D,C,-,
+"",Grande,CAOA CHERY,ARRIZO 5 E,E,Elétrico,Elétrico,A,S,E,F,,"0,000","0,000","0,000",A,0,0,"27,5","24,2","39,3","34,5",,"0,55",A,A,-,
+"",Grande,CAOA CHERY,ARRIZO 6,PRO,1.5T -16V,Combustão,CVT,S,E,F,,"52,400","179,400","1,590",B,0,115,"7,4","9,2","10,6","13,4",,"1,86",B,C,-,
+"",Grande,CAOA CHERY,ARRIZO 6,PLUS,1.5T -16V,Combustão,CVT,S,E,F,,"52,400","179,400","1,590",B,0,115,"7,4","9,2","10,6","13,4",,"1,86",B,C,-,
+"",Grande,CHEVROLET,CRUZE NB,LT NB AT,1.4T-16V,Combustão,A-6,S,E,F,,"29,749","275,328","2,040",B,0,113,"7,1","9,6","10,5","14,3",,"1,85",B,C,-,
+"",Grande,CHEVROLET,CRUZE NB,LTZ NB AT,1.4T-16V,Combustão,A-6,S,E,F,,"29,749","275,328","2,040",B,0,113,"7,1","9,6","10,5","14,3",,"1,85",B,C,-,
+"",Grande,CHEVROLET,CRUZE NB,PRE NB AT,1.4T-16V,Combustão,A-6,S,E,F,,"29,749","275,328","2,040",B,0,113,"7,1","9,6","10,5","14,3",,"1,85",B,C,-,
+"",Grande,CHEVROLET,CRUZE NB,PRE2 NB AT,1.4T-16V,Combustão,A-6,S,E,F,,"29,749","275,328","2,040",B,0,113,"7,1","9,6","10,5","14,3",,"1,85",B,C,-,
+"",Grande,CHEVROLET,CRUZE NB,MID NB AT,1.4T-16V,Combustão,A-6,S,E,F,,"29,749","275,328","2,040",B,0,113,"7,1","9,6","10,5","14,3",,"1,85",B,C,-,
+"",Grande,CHEVROLET,CRUZE HB,LT HB AT,1.4T-16V,Combustão,A-6,S,E,F,,"28,415","276,387","1,800",B,0,117,"7,0","9,2","10,4","13,3",,"1,91",C,C,-,
+"",Grande,CHEVROLET,CRUZE HB,LTZ HB AT,1.4T-16V,Combustão,A-6,S,E,F,,"28,415","276,387","1,800",B,0,117,"7,0","9,2","10,4","13,3",,"1,91",C,C,-,
+"",Grande,CHEVROLET,CRUZE HB,PRE HB AT,1.4T-16V,Combustão,A-6,S,E,F,,"28,415","276,387","1,800",B,0,117,"7,0","9,2","10,4","13,3",,"1,91",C,C,-,
+"",Grande,CHEVROLET,CRUZE HB,PRE2 HB AT,1.4T-16V,Combustão,A-6,S,E,F,,"28,415","276,387","1,800",B,0,117,"7,0","9,2","10,4","13,3",,"1,91",C,C,-,
+Grande,CHEVROLET,CRUZE HB,RS HB AT,1.4T-16V,Combustão,A-6,S,E,F,,"28,415","276,387","1,800",B,0,117,"7,0","9,2","10,4","13,3",,"1,91",C,C,-,,
+"",,,,,,,,,,,,,,,,,,,,,,,,
+"",Marca,Modelo,Versão,Motor,"Tipo dePropulsãoCombustãoHíbridoPlug-inElétrico","TransmissãoVelocidades(no)","ArCond.","DireçãoAssistida",Combustível,,Emissões no Escapamento,Quilometragem por Litro,"ConsumoEnergético(MJ/km)","ClassificaçãoPBE","SeloCONPETdeEficiênciaEnergética((A+B).A).(A.(A+B))",,,,,,,,,
+"",,,,,"Manual (M)Automática (A)Automática DuplaEmbreagem (DCT)Automatizada(MTA)Contínua (CVT)","Hidráulica(H)Mecânica(M)Elétrica(E)Eletro-hidráulica(E-H)","Elétrico (E)Gasolina (G)Flex (F)Diesel (D)",,Poluentes,Gás Efeito Estufa,,,,,,,,,,,,,,
+"",,,,,,,,,,"NMOG+NOx(mg/km)","CO(mg/km)","CHO(mg/km)","ReduçãoRelativaaoLimite",Etanol,"GasolinaouDiesel",Etanol,"Gasolina ou Dieselou Elétrico(km/l equivalente)",,,,,,,
+"",,,,,,"Sim(S)Não(N)","CO2fóssil(g/km)","CO2fóssil(g/km)","Cidade(km/l)","Estrada(km/l)","Cidade(km/l)","Estrada(km/l)","ComparaçãoRelativanaCategoria","ComparaçãoAbsolutaGeral",,,,,,,,,,
+Grande,JEEP,COMPASS,S 4XE,1.3 16V T,Plug-in,A-6,S,E,G,,"39,630","215,530","0,600",A,\,47,\,\,"25,4","24,2","0,80",A,A,SIM
+Grande,LEXUS,UX250H,LUXURY,2.0 - 16V,Híbrido,CVT,S,E,G,,"11,854","73,050","0,547",A,\,82,\,\,"16,6","14,7","1,33",A,B,SIM
+Grande,LEXUS,UX250H,DYNAMIC,2.0 - 16V,Híbrido,CVT,S,E,G,,"11,854","73,050","0,547",A,\,82,\,\,"16,6","14,7","1,33",A,B,SIM
+Grande,Mercedes-Benz,A200 SD,,1.3-16V,Combustão,DCT-7,S,E,G,,"27,700","84,700","1,020",A,\,111,\,\,"10,8","14,0","1,80",B,C,-
+Grande,Mercedes-Benz,AMG A35SD  4MATIC,,2.0-16V,Combustão,DCT-7,S,E,G,,"16,300","114,000","2,300",A,\,136,\,\,"9,1","11,5","2,20",E,C,-
+Grande,Mercedes-Benz,AMG GLA35 4M,,2.0-16V,Combustão,DCT-8,S,E,G,,"24,100","92,700","1,800",A,\,145,\,\,"8,7","10,4","2,35",E,C,-
+Grande,Mercedes-Benz,GLA200,AMG LINE(L7),1.3-16V,Combustão,DCT-7,S,E,G,,"33,000","18,200","1,680",A,\,110,\,\,"11,1","13,6","1,79",A,C,-
+Grande,Mercedes-Benz,AMG A45S 4MATIC,,2.0-16V,Combustão,DCT-8,S,E,G,,"14,700","94,500","1,800",A,\,152,\,\,"7,9","10,9","2,46",E,D,-
+Grande,NISSAN,LEAF,TEKNA,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"38,7","31,9","0,58",A,A,-
+Grande,TOYOTA,COROLLA CROSS,XRV HYBRID,1.8 - 16V,Híbrido,CVT,S,E,F,,"18,252","104,165","3,556",A,0,79,"11,8","9,7","17,8","14,7","1,31",A,B,SIM
+Grande,TOYOTA,COROLLA CROSS,XRX HYBRID,1.8 - 16V,Híbrido,CVT,S,E,F,,"18,252","104,165","3,556",A,0,79,"11,8","9,7","17,8","14,7","1,31",A,B,SIM
+Grande,TOYOTA,COROLLA CROSS,XRE 20,2.0 - 16V,Combustão,CVT,S,E,F,,"19,593","184,833","2,791",A,0,109,"8,2","9,0","11,7","13,0","1,76",A,C,-
+Grande,TOYOTA,COROLLA CROSS,XR 20,2.0 - 16V,Combustão,CVT,S,E,F,,"19,593","184,833","2,791",A,0,109,"8,2","9,0","11,7","13,0","1,76",A,C,-
+Grande,TOYOTA,COROLLA,APREMIUMH,1.8 - 16V,Híbrido,CVT,S,E,F,,"17,724","96,599","4,945",B,0,77,"11,8","10,5","17,9","15,4","1,27",A,B,SIM
+Grande,TOYOTA,COROLLA,ALTIS HV,1.8 - 16V,Híbrido,CVT,S,E,F,,"17,724","96,599","4,945",B,0,77,"11,8","10,5","17,9","15,4","1,27",A,B,SIM
+Grande,TOYOTA,COROLLA,XEI 20,2.0 - 16V,Combustão,CVT,S,E,F,,"18,800","184,250","2,500",A,0,103,"8,3","9,8","11,9","14,2","1,68",A,B,SIM
+Grande,TOYOTA,COROLLA,GLI 20,2.0 - 16V,Combustão,CVT,S,E,F,,"18,800","184,250","2,500",A,0,103,"8,3","9,8","11,9","14,2","1,68",A,B,SIM
+Grande,TOYOTA,COROLLA,ALTIS 20,2.0 - 16V,Combustão,CVT,S,E,F,,"18,800","184,250","2,500",A,0,103,"8,3","9,8","11,9","14,2","1,68",A,B,SIM
+Grande,TOYOTA,COROLLA,GRS,2.0 - 16V,Combustão,CVT,S,E,F,,"18,800","184,250","2,500",A,0,103,"8,3","9,8","11,9","14,2","1,68",A,B,SIM
+Extra Grande,AUDI,A4 Sedan,Prestige (ed.0),2.0 - 16V,Combustão,DCT-7,S,E,G,,"24,020","80,900","0,815",A,\,123,\,\,"10,1","12,1","2,00",B,C,-
+Extra Grande,AUDI,A4 Sedan,S line (ed.0),2.0 - 16V,Combustão,DCT-7,S,E,G,,"24,020","80,900","0,815",A,\,123,\,\,"10,1","12,1","2,00",B,C,-
+Extra Grande,AUDI,A4 Sedan,Prestige,2.0 - 16V,Combustão,DCT-7,S,E,G,,"19,738","86,400","0,700",A,\,119,\,\,"10,5","12,5","1,93",A,C,-
+Extra Grande,AUDI,A4 Sedan,S line,2.0 - 16V,Combustão,DCT-7,S,E,G,,"19,738","86,400","0,700",A,\,119,\,\,"10,5","12,5","1,93",A,C,-
+Extra Grande,AUDI,A5 Sportback,S line (ed.0),2.0 - 16V,Combustão,DCT-7,S,E,G,,"21,660","82,200","0,875",A,\,121,\,\,"10,2","12,5","1,96",A,C,-
+Extra Grande,AUDI,A5 Sportback,S line,2.0 - 16V,Combustão,DCT-7,S,E,G,,"22,290","94,500","0,500",A,\,121,\,\,"10,3","12,4","1,96",A,C,-
+Extra Grande,AUDI,RS 5 Sportback,-,2.9 - 24 V,Combustão,A-8,S,E,G,,"25,600","134,500","0,960",A,\,174,\,\,"7,0","9,5","2,82",E,D,-
+Extra Grande,AUDI,RS 6 Avant,-,4.0 - 32V,Híbrido,A-8,S,E,G,,"46,000","176,300","1,450",B,\,230,\,\,"5,4","7,2","3,72",E,E,-
+Extra Grande,AUDI,Q5,Prestige,2.0 - 16V,Combustão,A- 7,S,E,G,,"21,930","117,600","0,780",A,\,159,\,\,"8,0","9,5","2,58",D,D,-
+Extra Grande,AUDI,Q5,S line,2.0 - 16V,Combustão,A- 7,S,E,G,,"21,930","117,600","0,780",A,\,159,\,\,"8,0","9,5","2,58",D,D,-
+Extra Grande,AUDI,Q5,Prestige,2.0 - 16V,Combustão,A-7,S,E,G,,"24,962","85,665","0,500",A,\,149,\,\,"8,5","10,0","2,42",D,D,-
+Extra Grande,AUDI,Q5,S line,2.0 - 16V,Combustão,A-7,S,E,G,,"24,962","85,665","0,500",A,\,149,\,\,"8,5","10,0","2,42",D,D,-
+Extra Grande,AUDI,Q5,S line Black,2.0 - 16V,Combustão,A-7,S,E,G,,"24,962","85,665","0,500",A,\,149,\,\,"8,5","10,0","2,42",D,D,-
+Extra Grande,AUDI,Q5,S line Black (ed.0),2.0 - 16V,Combustão,A- 7,S,E,G,,"21,930","117,600","0,780",A,\,159,\,\,"8,0","9,5","2,58",D,D,-
+Extra Grande,AUDI,Q7,Performance (ed.0),3.0 - 24V,Híbrido,A-8,S,E,G,,"30,600","156,000","1,700",A,\,194,\,\,"6,7","7,8","3,14",E,D,-
+Extra Grande,AUDI,Q7,Performance Black (ed.0),3.0 - 24V,Híbrido,A-8,S,E,G,,"30,600","156,000","1,700",A,\,194,\,\,"6,7","7,8","3,14",E,D,-
+Extra Grande,AUDI,Q7,Performance,3.0 - 24V,Híbrido,A-8,S,E,G,,"19,899","220,900","0,800",A,\,183,\,\,"7,1","8,1","2,96",E,D,-
+Extra Grande,AUDI,Q7,Performance Black,3.0 - 24V,Híbrido,A-8,S,E,G,,"19,899","220,900","0,800",A,\,183,\,\,"7,1","8,1","2,96",E,D,-
+Extra Grande,AUDI,Q8 Sportback,Performance (ed.0),3.0 - 24V,Híbrido,A-8,S,E,G,,"30,600","123,500","1,700",A,\,194,\,\,"6,7","7,7","3,14",E,D,-
+Extra Grande,AUDI,Q8 Sportback,Performance Black (ed.0),3.0 - 24V,Híbrido,A-8,S,E,G,,"30,600","123,500","1,700",A,\,194,\,\,"6,7","7,7","3,14",E,D,-
+Extra Grande,AUDI,Q8 Sportback,Performance,3.0 - 24V,Híbrido,A-8,S,E,G,,"23,350","126,700","0,750",A,\,189,\,\,"7,0","7,6","3,06",E,D,-
+Extra Grande,AUDI,Q8 Sportback,Performance Black,3.0 - 24V,Híbrido,A-8,S,E,G,,"23,350","126,700","0,750",A,\,189,\,\,"7,0","7,6","3,06",E,D,-
+Extra Grande,AUDI,RS e-tron GT,-,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","29,1","0,69",A,A,-
+Extra Grande,AUDI,Q8 Sportback,Performance,3.0 - 24V,Híbrido,A-8,S,E,G,,"23,350","126,700","0,750",A,\,189,\,\,"7,0","7,6","3,06",E,D,-
+Extra Grande,AUDI,Q8 Sportback,Performance Black,3.0 - 24V,Híbrido,A-8,S,E,G,,"23,350","126,700","0,750",A,\,189,\,\,"7,0","7,6","3,06",E,D,-
+Extra Grande,AUDI,RS e-tron GT,-,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","29,1","0,69",A,A,-
+Extra Grande,AUDI,e-tron S Sportback,-,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"23,6","23,0","0,87",A,A,-
+Extra Grande,AUDI,e-tron Sportback,Performance,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"22,7","22,8","0,89",A,A,-
+Extra Grande,AUDI,e-tron Sportback,Performance Black,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"22,7","22,8","0,89",A,A,-
+Extra Grande,AUDI,e-tron,Performance,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"23,0","23,1","0,88",A,A,-
+Extra Grande,AUDI,e-tron,Performance Black,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"23,0","23,1","0,88",A,A,-
+Extra Grande,BMW,420i,Cabrio,2.0 - 16V,Combustão,A-8,S,E-H,G,,"10,900","53,500","0,350",A,\,121,\,\,"9,9","13,3","1,96",A,C,-
+Extra Grande,BMW,330e,-,2.0 - 16V,Plug-in,A-8,S,E-H,G,,"30,100","41,100","0,600",A,\,47,\,\,"21,7","24,6","0,88",A,A,SIM
+Extra Grande,BMW,320i,GP Flex,2.0 - 16V,Combustão,A-8,S,E-H,F,,"23,650","90,000","1,200",A,0,111,"7,8","9,4","11,2","13,3","1,79",A,C,-
+Extra Grande,BMW,320i,Sport GP Flex,2.0 - 16V,Combustão,A-8,S,E-H,F,,"22,100","129,000","1,350",A,0,114,"7,5","9,1","10,7","13,4","1,85",A,C,-
+Extra Grande,BMW,320i,M Sport Flex,2.0 - 16V,Combustão,A-8,S,E-H,F,,"22,100","129,000","1,350",A,0,114,"7,5","9,1","10,7","13,4","1,85",A,C,-
+Extra Grande,BMW,530e,-,2.0 - 16V,Plug-in,A-8,S,E-H,G,,"6,696","57,990","1,048",A,\,40,\,\,"24,0","25,8","0,80",A,A,SIM
+Extra Grande,BMW,IX3,-,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"37,9","32,7","0,57",A,A,-
+Extra Grande,BMW,IX xDrive 40,-,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"35,2","29,9","0,62",A,A,-
+Extra Grande,BMW,IX xDrive 50,-,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"36,4","30,2","0,61",A,A,-
+Extra Grande,CHEVROLET,EQUINOX,15T PRE,1.5T -16V,Combustão,A-6,S,E,G,,"16,540","140,700","1,680",A,\,140,\,\,"9,0","10,8","2,26",C,C,-
+Extra Grande,CHEVROLET,EQUINOX,15T RS,1.5T -16V,Combustão,A-6,S,E,G,,"16,440","168,840","1,080",A,\,133,\,\,"9,3","11,5","2,16",C,C,-
+Extra Grande,CHEVROLET,EQUINOX,15T LT,1.5T -16V,Combustão,A-6,S,E,G,,"16,440","168,840","1,080",A,\,133,\,\,"9,3","11,5","2,16",C,C,-
+Extra Grande,FORD,Territory,SEL,1.5 - 16V,Combustão,CVT,S,E,G,,"36,300","530,700","2,250",B,\,141,\,\,"9,4","9,8","2,28",C,C,-
+Extra Grande,FORD,Territory,SEL Plus,1.5 - 16V,Combustão,CVT,S,E,G,,"36,300","530,700","2,250",B,\,141,\,\,"9,4","9,8","2,28",C,C,-
+Extra Grande,FORD,Territory,Titanium,1.5 - 16V,Combustão,CVT,S,E,G,,"36,300","530,700","2,250",B,\,141,\,\,"9,4","9,8","2,28",C,C,-
+Extra Grande,JAGUAR,I-PACE,E400 FIRSTED,Elétrico,Elétrico,A-1,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,2","26,8","0,72",A,A,-
+Extra Grande,LEXUS,NX350H,LUXURY,2.5 - 16V,Híbrido,CVT,S,E,G,,"13,013","59,113","0,475",A,\,92,\,\,"15,3","12,9","1,50",A,B,SIM
+Extra Grande,LEXUS,NX350H,DYNAMIC,2.5 - 16V,Híbrido,CVT,S,E,G,,"13,013","59,113","0,475",A,\,92,\,\,"15,3","12,9","1,50",A,B,SIM
+Extra Grande,LEXUS,NX350H,F-SPORT,2.5 - 16V,Híbrido,CVT,S,E,G,,"13,013","59,113","0,475",A,\,92,\,\,"15,3","12,9","1,50",A,B,SIM
+Extra Grande,JAGUAR,I-PACE,E400 S,Elétrico,Elétrico,A-1,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,2","26,8","0,72",A,A,-
+Extra Grande,JAGUAR,I-PACE,E400 SE,Elétrico,Elétrico,A-1,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,2","26,8","0,72",A,A,-
+Extra Grande,JAGUAR,I-PACE,E400 HSE,Elétrico,Elétrico,A-1,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,2","26,8","0,72",A,A,-
+Extra Grande,LEXUS,ES300H,-,2.5-16V,Híbrido,CVT,S,E,G,,"18,400","57,900","0,600",A,\,84,\,\,"15,8","15,2","1,36",A,B,SIM
+Extra Grande,LEXUS,ES300H,-,2.5-16V,Híbrido,CVT,S,E,G,,"18,400","57,900","0,600",A,\,84,\,\,"15,8","15,2","1,36",A,B,SIM
+Extra Grande,Mercedes-Benz,CLA250,,2.0-16V,Combustão,DCT-7,S,E,G,,"17,000","166,000","0,800",A,\,124,\,\,"9,5","13,3","2,01",B,C,-
+Extra Grande,Mercedes-Benz,CLA250,ADV,2.0-16V,Combustão,DCT-7,S,E,G,,"17,000","166,000","0,800",A,\,124,\,\,"9,5","13,3","2,01",B,C,-
+Extra Grande,Mercedes-Benz,CLA250,STYLE,2.0-16V,Combustão,DCT-7,S,E,G,,"17,000","166,000","0,800",A,\,124,\,\,"9,5","13,3","2,01",B,C,-
+Extra Grande,Mercedes-Benz,CLA250,PROG,2.0-16V,Combustão,DCT-7,S,E,G,,"17,000","166,000","0,800",A,\,124,\,\,"9,5","13,3","2,01",B,C,-
+Extra Grande,Mercedes-Benz,C200,AVANT,1.5-16V,Híbrido,A-9,S,E,G,,"18,800","65,000","0,200",A,\,110,\,\,"11,1","13,9","1,78",A,C,-
+Extra Grande,Mercedes-Benz,C200,AMG LINE,1.5-16V,Híbrido,A-9,S,E,G,,"18,800","65,000","0,200",A,\,110,\,\,"11,1","13,9","1,78",A,C,-
+Extra Grande,Mercedes-Benz,C300,AMG LINE,2.0-16V,Híbrido,A-9,S,E,G,,"15,300","91,300","0,400",A,\,118,\,\,"10,4","12,9","1,92",A,C,-
+Extra Grande,Mercedes-Benz,EQC400 4M,,Elétrico,Elétrico,A-1,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"24,2","23,7","0,85",A,A,-
+Extra Grande,Mercedes-Benz,AMG CLA35 4MATIC,,2.0-16V,Combustão,DCT-7,S,E,G,,"16,300","114,000","2,300",A,\,138,\,\,"9,1","11,1","2,23",C,C,-
+Extra Grande,Mercedes-Benz,AMG GLB35 4M,,2.0-16V,Combustão,DCT-8,S,E,G,,"16,100","128,900","1,300",A,\,152,\,\,"8,4","10,0","2,45",D,D,-
+Extra Grande,Mercedes-Benz,AMG CLA 45S 4M,,2.0-16V,Combustão,DCT-8,S,E,G,,"14,700","94,500","1,800",A,\,152,\,\,"7,9","10,9","2,46",D,D,-
+Extra Grande,Mercedes-Benz,GLB200,PROGRESSIVE(L7),1.3-16V,Combustão,DCT-7,S,E,G,,"34,800","113,400","1,690",A,\,123,\,\,"10,0","12,4","1,99",B,C,-
+Extra Grande,Mercedes-Benz,E300,EXCLUSIVE,2.0-16V,Combustão,A-9,S,E,G,,"12,300","262,100","1,100",A,\,136,\,\,"8,9","12,0","2,20",C,C,-
+Extra Grande,Mercedes-Benz,AMG GLE53 4M,,3.0-24V,Híbrido,A-9,S,E,G,,"13,900","391,300","2,000",A,\,179,\,\,"7,0","8,6","2,92",E,D,-
+Extra Grande,Mercedes-Benz,GLS 450 4M,,3.0-24V,Híbrido,A-9,S,E,G,,"10,362","279,500","1,600",A,\,178,\,\,"7,1","8,8","2,87",E,D,-
+Extra Grande,Mercedes-Benz,AMG GLC43,,3.0-24V,Combustão,A-9,S,E,G,,"13,472","176,200","2,200",A,\,184,\,\,"6,8","8,7","2,98",E,D,-
+Extra Grande,Mercedes-Benz,AMG GLC43,Coupé,3.0-24V,Combustão,A-9,S,E,G,,"13,472","176,200","2,200",A,\,184,\,\,"6,8","8,7","2,98",E,D,-
+Extra Grande,PORSCHE,Macan,S,2.9-24V,Combustão,DCT-7,S,E,G,,"3,770","84,800","1,510",A,\,182,\,\,"7,0","8,4","2,96",E,D,-
+Extra Grande,PORSCHE,Macan,GTS,2.9-24V,Combustão,DCT-7,S,E,G,,"3,200","73,200","1,415",A,\,184,\,\,"6,8","8,4","3,00",E,D,-
+Extra Grande,PORSCHE,Macan,--,2.0-16V,Combustão,DCT-7,S,E,G,,"31,990","252,700","0,306",B,\,176,\,\,"7,4","8,3","2,85",E,D,-
+Extra Grande,PORSCHE,Macan,T,2.0-16V,Combustão,DCT-7,S,E,G,,"31,990","252,700","0,306",B,\,176,\,\,"7,4","8,3","2,85",E,D,-
+Extra Grande,TOYOTA,RAV4H,SXAWD CNT,2.5 - 16V,Híbrido,CVT,S,E,G,,"13,195","64,820","0,602",C,\,82,\,\,"17,1","14,5","1,32",A,B,SIM
+Extra Grande,TOYOTA,RAV4H,S AWD CNT,2.5 - 16V,Híbrido,CVT,S,E,G,,"13,195","64,820","0,602",C,\,82,\,\,"17,1","14,5","1,32",A,B,SIM
+Extra Grande,TOYOTA,CAMRY,HV,2.5-16V,Híbrido,CVT,S,E,G,,"13,300","74,200","0,400",A,\,78,\,\,"17,4","15,3","1,27",A,B,SIM
+Extra Grande,VW,JETTA,GLI 350 TSI,2.0-16V,Combustão,DCT-7,S,E,G,,"13,313","111,917","0,840",A,\,125,\,\,"9,9","12,2","2,03",B,C,-
+Minivan,CHEVROLET,SPIN,1.8L AT PREMIER,1.8L -8V,Combustão,A-6,S,E,F,,"37,520","320,948","2,400",B,0,124,"6,9","8,7","10,0","12,4","2,00",C,C,-
+Minivan,CHEVROLET,SPIN,1.8L AT ACT7,1.8L -8V,Combustão,A-6,S,E,F,,"37,520","320,948","2,400",B,0,124,"6,9","8,7","10,0","12,4","2,00",C,C,-
+Minivan,CHEVROLET,SPIN,1.8L AT ACT7,1.8L -8V,Combustão,A-6,S,E,F,,"33,769","303,555","2,130",B,0,125,"6,9","8,6","9,8","12,3","2,02",C,C,-
+Minivan,CHEVROLET,SPIN,1.8L AT PREMIER,1.8L -8V,Combustão,A-6,S,E,F,,"33,769","303,555","2,130",B,0,125,"6,9","8,6","9,8","12,3","2,02",C,C,-
+Minivan,CHEVROLET,SPIN,1.8L AT LT7,1.8L -8V,Combustão,A-6,S,E,F,,"33,769","303,555","2,130",B,0,125,"6,9","8,6","9,8","12,3","2,02",C,C,-
+Minivan,CHEVROLET,SPIN,1.8L AT LT7,1.8L -8V,Combustão,A-6,S,E,F,,"37,520","320,948","2,400",B,0,124,"6,9","8,7","10,0","12,4","2,00",C,C,-
+Minivan,KIA,CARNIVAL,3.5 EX,3.5 - 24V,Combustão,A-8,S,E,G,,"29,940","500,100","1,620",B,\,167,\,\,"7,3","9,9","2,71",E,D,-
+Minivan,KIA,CARNIVAL,LX,3.5 - 24V,Combustão,A-8,S,E,G,,"29,940","500,100","1,620",B,\,167,\,\,"7,3","9,9","2,71",E,D,-
+Minivan,KIA,CARNIVAL,SX,3.5 - 24V,Combustão,A-8,S,E,G,,"29,940","500,100","1,620",B,\,167,\,\,"7,3","9,9","2,71",E,D,-
+"Utilitário EsportivoCompacto",CAOA CHERY,TIGGO 5X,PRO,1.5T -16V,Combustão,CVT,S,E,F,,"47,900","235,800","1,876",B,0,127,"6,9","8,1","9,9","11,5","2,06",D,C,-
+"Utilitário EsportivoCompacto",CAOA CHERY,TIGGO 3X,PRO,1.5T -16V,Combustão,CVT,S,E,F,,"63,900","508,800","0,754",C,0,118,"7,3","8,4","10,6","12,2","1,94",C,C,-
+"Utilitário EsportivoCompacto",CAOA CHERY,TIGGO 3X,PLUS,1.5T -16V,Combustão,CVT,S,E,F,,"63,900","508,800","0,754",C,0,118,"7,3","8,4","10,6","12,2","1,94",C,C,-
+"Utilitário EsportivoCompacto",CAOA CHERY,TIGGO 3X,LIMITED,1.5T -16V,Combustão,CVT,S,E,F,,"63,900","508,800","0,754",C,0,118,"7,3","8,4","10,6","12,2","1,94",C,C,-
+"Utilitário EsportivoCompacto",CHEVROLET,TRACKER,12T A,1.2T - 12 V,Combustão,A-6,S,E,F,,"47,198","434,737","3,540",C,0,117,"7,2","9,2","10,4","13,2","1,89",C,C,-
+"Utilitário EsportivoCompacto",CHEVROLET,TRACKER,12T A LTZ,1.2T - 12 V,Combustão,A-6,S,E,F,,"47,198","434,737","3,540",C,0,117,"7,2","9,2","10,4","13,2","1,89",C,C,-
+"Utilitário EsportivoCompacto",CHEVROLET,TRACKER,12T A PR,1.2T - 12 V,Combustão,A-6,S,E,F,,"47,198","434,737","3,540",C,0,117,"7,2","9,2","10,4","13,2","1,89",C,C,-
+"Utilitário EsportivoCompacto",CHEVROLET,TRACKER,T,1.0T - 12 V,Combustão,M-6,S,E,F,,"43,239","274,626","3,720",B,0,97,"8,8","10,5","12,7","14,9","1,58",A,B,SIM
+"Utilitário EsportivoCompacto",CHEVROLET,TRACKER,T A,1.0T - 12 V,Combustão,A-6,S,E,F,,"41,668","174,622","3,300",B,0,110,"7,7","9,5","11,2","13,4","1,79",C,C,-
+"Utilitário EsportivoCompacto",CHEVROLET,TRACKER,T A LT,1.0T - 12 V,Combustão,A-6,S,E,F,,"41,668","174,622","3,300",B,0,110,"7,7","9,5","11,2","13,4","1,79",C,C,-
+"Utilitário EsportivoCompacto",CHEVROLET,TRACKER,T A LTZ,1.0T - 12 V,Combustão,A-6,S,E,F,,"41,668","174,622","3,300",B,0,110,"7,7","9,5","11,2","13,4","1,79",C,C,-
+"Utilitário EsportivoCompacto",CHEVROLET,TRACKER,T A PR,1.0T - 12 V,Combustão,A-6,S,E,F,,"41,668","174,622","3,300",B,0,110,"7,7","9,5","11,2","13,4","1,79",C,C,-
+"Utilitário EsportivoCompacto",CITROEN,C4 CACTUS,FEEL AT,1.6 16V,Combustão,A-6,S,E,F,,"31,000","559,000","3,100",B,0,113,"7,7","8,9","11,2","12,7","1,84",C,C,-
+"Utilitário EsportivoCompacto",CITROEN,C4 CACTUS,FEEL P,1.6 16V,Combustão,A-6,S,E,F,,"31,000","559,000","3,100",B,0,113,"7,7","8,9","11,2","12,7","1,84",C,C,-
+"Utilitário EsportivoCompacto",CITROEN,C4 CACTUS,LIVE A,1.6 16V,Combustão,A-6,S,E,F,,"31,000","559,000","3,100",B,0,113,"7,7","8,9","11,2","12,7","1,84",C,C,-
+"Utilitário EsportivoCompacto",CITROEN,C4 CACTUS,SHINE,1.6 16V,Combustão,A-6,S,E,F,,"31,000","559,000","3,100",B,0,113,"7,7","8,9","11,2","12,7","1,84",C,C,-
+"Utilitário EsportivoCompacto",CITROEN,C4 CACTUS,XSE AT,1.6 16V,Combustão,A-6,S,E,F,,"31,000","559,000","3,100",B,0,113,"7,7","8,9","11,2","12,7","1,84",C,C,-
+"Utilitário EsportivoCompacto",CITROEN,C4 CACTUS,SHINE T,1.6 16V T,Combustão,A-6,S,E,F,,"34,000","219,000","5,000",B,0,107,"8,2","9,5","11,7","13,4","1,73",B,B,-
+"Utilitário EsportivoCompacto",FIAT,ARGO,TREKKING,1.3-8V,Combustão,M-5,S,E,F,,"35,720","260,960","2,058",A,0,97,"9,1","10,0","13,0","14,4","1,58",A,B,SIM
+"Utilitário EsportivoCompacto",FIAT,PULSE,IMPETUS TF200,1.0 12V T,Combustão,CVT-7,S,E,F,,"33,860","446,600","7,098",B,0,102,"8,5","10,2","12,0","14,6","1,64",B,B,-
+"Utilitário EsportivoCompacto",FIAT,PULSE,AUDACE TF200,1.0 12V T,Combustão,CVT-7,S,E,F,,"33,860","446,600","7,098",B,0,102,"8,5","10,2","12,0","14,6","1,64",B,B,-
+"Utilitário EsportivoCompacto",FIAT,PULSE,DRIVE TF200,1.0 12V T,Combustão,CVT-7,S,E,F,,"33,860","446,600","7,098",B,0,102,"8,5","10,2","12,0","14,6","1,64",B,B,-
+"Utilitário EsportivoCompacto",FIAT,PULSE,DRIVE AT,1.3-8V,Combustão,CVT-7,S,E,F,,"42,415","356,650","3,327",B,0,98,"9,2","10,4","12,9","14,3","1,56",A,B,SIM
+"Utilitário EsportivoCompacto",FIAT,PULSE,MT,1.3-8V,Combustão,M-5,S,E,F,,"45,920","311,500","3,654",B,0,98,"9,1","10,1","12,6","14,7","1,57",A,B,SIM
+"Utilitário EsportivoCompacto",Hyundai,CRETA,Comfort,1.0-12V T,Combustão,A-6,S,E,F,,"20,190","145,145","2,769",A,0,110,"8,2","8,9","12,0","12,2","1,78",C,C,-
+"Utilitário EsportivoCompacto",Hyundai,CRETA,Limited,1.0-12V T,Combustão,A-6,S,E,F,,"20,190","145,145","2,769",A,0,110,"8,2","8,9","12,0","12,2","1,78",C,C,-
+"Utilitário EsportivoCompacto",Hyundai,CRETA,Platinum,1.0-12V T,Combustão,A-6,S,E,F,,"20,190","145,145","2,769",A,0,110,"8,2","8,9","12,0","12,2","1,78",C,C,-
+"Utilitário EsportivoCompacto",Hyundai,CRETA,Ultimate,2.0-16V,Combustão,A-6,S,E,F,,"21,070","329,280","3,072",A,0,116,"7,7","8,9","10,9","12,5","1,86",C,C,-
+"Utilitário EsportivoCompacto",Hyundai,CRETA,Action,1.6-16V,Combustão,A-6,S,E,F,,"35,080","491,855","3,348",B,0,126,"7,1","8,1","10,1","11,5","2,03",D,C,-
+"Utilitário EsportivoCompacto",Jac,e-JS4,e-JS4,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"46,1","40,3","0,47",A,A,-
+"Utilitário EsportivoCompacto",JEEP,RENEGADE,LIMITED TF,1.3 16V T,Combustão,A-6,S,E,F,,"42,085","163,660","5,250",B,0,114,"7,7","9,1","11,0","12,8","1,83",C,C,-
+"Utilitário EsportivoCompacto",JEEP,RENEGADE,LONGITUDE TF,1.3 16V T,Combustão,A-6,S,E,F,,"42,085","163,660","5,250",B,0,114,"7,7","9,1","11,0","12,8","1,83",C,C,-
+"Utilitário EsportivoCompacto",JEEP,RENEGADE,SPORT TF,1.3 16V T,Combustão,A-6,S,E,F,,"42,085","163,660","5,250",B,0,114,"7,7","9,1","11,0","12,8","1,83",C,C,-
+NISSAN,Kicks,SENSE,1.6-16V,Combustão,M-5,S,H,F,,"42,000","279,475","3,840",B,0,109,"7,8","9,1","11,6","13,3","1,78",C,C,-,
+"",,,,,,,,,,,,,,,,,,,,,,,,,
+"",Categoria,Marca,Modelo,Versão,Motor,"Tipo dePropulsãoCombustãoHíbridoPlug-inElétrico","TransmissãoVelocidades(no)","ArCond.","DireçãoAssistida",Combustível,,Emissões no Escapamento,Quilometragem por Litro,"ConsumoEnergético(MJ/km)","ClassificaçãoPBE","SeloCONPETdeEficiênciaEnergética((A+B).A).(A.(A+B))",,,,,,,,,
+"",,,,,,"Manual (M)Automática (A)Automática DuplaEmbreagem (DCT)Automatizada(MTA)Contínua (CVT)","Hidráulica(H)Mecânica(M)Elétrica(E)Eletro-hidráulica(E-H)","Elétrico (E)Gasolina (G)Flex (F)Diesel (D)",,Poluentes,Gás Efeito Estufa,,,,,,,,,,,,,,
+"",,,,,,,,,,,"NMOG+NOx(mg/km)","CO(mg/km)","CHO(mg/km)","ReduçãoRelativaaoLimite",Etanol,"GasolinaouDiesel",Etanol,"Gasolina ou Dieselou Elétrico(km/l equivalente)",,,,,,,
+"",,,,,,,"Sim(S)Não(N)","CO2fóssil(g/km)","CO2fóssil(g/km)","Cidade(km/l)","Estrada(km/l)","Cidade(km/l)","Estrada(km/l)","ComparaçãoRelativanaCategoria","ComparaçãoAbsolutaGeral",,,,,,,,,,
+"","Utilitário EsportivoCompacto",NISSAN,Kicks,SENSE,1.6-16V,Combustão,CVT,S,H,F,,"44,400","209,475","3,420",B,0,108,"7,8","9,6","11,4","13,9","1,75",B,C,-
+"","Utilitário EsportivoCompacto",NISSAN,Kicks,EXCLUSI,1.6-16V,Combustão,CVT,S,H,F,,"44,400","209,475","3,420",B,0,108,"7,8","9,6","11,4","13,9","1,75",B,C,-
+"","Utilitário EsportivoCompacto",NISSAN,Kicks,ACTIVE,1.6-16V,Combustão,CVT,S,H,F,,"44,400","209,475","3,420",B,0,108,"7,8","9,6","11,4","13,9","1,75",B,C,-
+"","Utilitário EsportivoCompacto",NISSAN,Kicks,ADVANCE,1.6-16V,Combustão,CVT,S,H,F,,"44,400","209,475","3,420",B,0,108,"7,8","9,6","11,4","13,9","1,75",B,C,-
+"","Utilitário EsportivoCompacto",PEUGEOT,2008,GRF THP AT,1.6-16V T,Combustão,A-6,S,E,F,,"45,000","172,000","5,000",B,0,112,"7,8","9,1","11,2","12,9","1,81",C,C,-
+"","Utilitário EsportivoCompacto",PEUGEOT,2008,GRIFFE EAT6,1.6-16V,Combustão,A-6,S,E,F,,"38,000","649,000","4,000",C,0,115,"7,6","8,6","11,0","12,4","1,87",C,C,-
+"","Utilitário EsportivoCompacto",PEUGEOT,2008,ALLURE EAT6,1.6-16V,Combustão,A-6,S,E,F,,"38,000","649,000","4,000",C,0,115,"7,6","8,6","11,0","12,4","1,87",C,C,-
+"","Utilitário EsportivoCompacto",PEUGEOT,2008,ALLURE PK,1.6-16V,Combustão,A-6,S,E,F,,"38,000","649,000","4,000",C,0,115,"7,6","8,6","11,0","12,4","1,87",C,C,-
+"","Utilitário EsportivoCompacto",Renault,Kwid,Zen,1.0-12V,Combustão,M-5,S,E-H,F,,"65,080","402,850","5,371",C,0,84,"10,8","11,0","15,3","15,7","1,36",A,B,SIM
+"","Utilitário EsportivoCompacto",Renault,Kwid,Intense,1.0-12V,Combustão,M-5,S,E-H,F,,"65,080","402,850","5,371",C,0,84,"10,8","11,0","15,3","15,7","1,36",A,B,SIM
+"","Utilitário EsportivoCompacto",Renault,Kwid,Outsider,1.0-12V,Combustão,M-5,S,E-H,F,,"65,080","402,850","5,371",C,0,84,"10,8","11,0","15,3","15,7","1,36",A,B,SIM
+"","Utilitário EsportivoCompacto",Renault,Kwid,Intense Biton,1.0-12V,Combustão,M-5,S,E-H,F,,"65,080","402,850","5,371",C,0,84,"10,8","11,0","15,3","15,7","1,36",A,B,SIM
+"","Utilitário EsportivoCompacto",Renault,Sandero,SZE,1.6-16V,Combustão,M-5,S,E-H,F,,"44,780","361,760","1,563",B,0,111,"8,3","8,5","11,8","12,1","1,80",C,C,-
+"","Utilitário EsportivoCompacto",VW,NIVUS,"COMFORTLINE 200TSIAUTOMÁTICO",1.0-12V,Combustão,A - 6,S,E,F,,"44,694","251,902","4,572",B,0,102,"8,3","10,1","12,1","14,2","1,66",B,B,-
+"","Utilitário EsportivoCompacto",VW,NIVUS,"HIGHLINE 200TSIAUTOMÁTICO",1.0-12V,Combustão,A - 6,S,E,F,,"44,694","251,902","4,572",B,0,102,"8,3","10,1","12,1","14,2","1,66",B,B,-
+"","Utilitário EsportivoCompacto 4x4",JEEP,RENEGADE,S (OPT 400),1.3 16V T,Combustão,A-9,S,E,F,,"40,607","196,980","6,177",B,0,139,"6,3","7,6","9,1","10,8","2,24",E,C,-
+"","Utilitário EsportivoCompacto 4x4",JEEP,RENEGADE,S,1.3 16V T,Combustão,A-9,S,E,F,,"40,607","196,980","6,177",B,0,139,"6,3","7,6","9,1","10,8","2,24",E,C,-
+"","Utilitário EsportivoGrande",AUDI,Q3,Prestige,2.0 - 16V,Combustão,A-8,S,E,G,,"11,700","173,600","1,000",A,\,168,\,\,"7,3","9,5","2,73",E,D,-
+"","Utilitário EsportivoGrande",AUDI,Q3,Performance,2.0 - 16V,Combustão,A-8,S,E,G,,"11,700","173,600","1,000",A,\,168,\,\,"7,3","9,5","2,73",E,D,-
+"","Utilitário EsportivoGrande",AUDI,Q3,Performance Black (ed.0),2.0 - 16V,Combustão,A-8,S,E,G,,"11,700","173,600","1,000",A,\,168,\,\,"7,3","9,5","2,73",E,D,-
+"","Utilitário EsportivoGrande",AUDI,Q3,Prestige,2.0 - 16V,Combustão,A-8,S,E,G,,"9,878","96,200","0,438",A,\,154,\,\,"8,0","10,3","2,50",E,D,-
+"","Utilitário EsportivoGrande",AUDI,Q3,Performance,2.0 - 16V,Combustão,A-8,S,E,G,,"9,878","96,200","0,438",A,\,154,\,\,"8,0","10,3","2,50",E,D,-
+"","Utilitário EsportivoGrande",AUDI,Q3,Performance Black,2.0 - 16V,Combustão,A-8,S,E,G,,"9,878","96,200","0,438",A,\,154,\,\,"8,0","10,3","2,50",E,D,-
+"","Utilitário EsportivoGrande",AUDI,Q3 Sportback,Performance,2.0 - 16V,Combustão,A-8,S,E,G,,"15,700","127,500","0,905",A,\,158,\,\,"7,8","10,0","2,56",E,D,-
+"","Utilitário EsportivoGrande",AUDI,Q3 Sportback,Performance Black (ed.0),2.0 - 16V,Combustão,A-8,S,E,G,,"15,700","127,500","0,905",A,\,158,\,\,"7,8","10,0","2,56",E,D,-
+"","Utilitário EsportivoGrande",AUDI,Q3 Sportback,Performance,2.0 - 16V,Combustão,A-8,S,E,G,,"9,288","125,300","0,337",A,\,155,\,\,"8,0","10,1","2,52",E,D,-
+"","Utilitário EsportivoGrande",AUDI,Q3 Sportback,Performance Black,2.0 - 16V,Combustão,A-8,S,E,G,,"9,288","125,300","0,337",A,\,155,\,\,"8,0","10,1","2,52",E,D,-
+"","Utilitário EsportivoGrande",BYD,TAN,AWD GS 680EV,Elétrico,Elétrico,N.A.,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"27,7","23,3","0,79",A,A,-
+"","Utilitário EsportivoGrande",CAOA CHERY,TIGGO 7,PRO,1.6-16V,Combustão,DCT-7,S,E,G,,"22,000","317,500","3,275",B,\,126,\,\,"9,9","11,7","2,05",C,C,-
+"","Utilitário EsportivoGrande",CAOA CHERY,TIGGO 8,TGDI,1.6 - 16V,Combustão,DCT-8,S,E,G,,"32,400","524,400","4,100",B,\,123,\,\,"10,1","12,0","2,01",B,C,-
+"","Utilitário EsportivoGrande",JEEP,COMMANDER,OVERLAND T270,1.3 16V T,Combustão,A-6,S,E,F,,"34,915","155,400","3,126",B,0,127,"6,9","8,3","9,8","11,8","2,05",C,C,-
+"","Utilitário EsportivoGrande",JEEP,COMMANDER,LIMITED T270,1.3 16V T,Combustão,A-6,S,E,F,,"34,915","155,400","3,126",B,0,127,"6,9","8,3","9,8","11,8","2,05",C,C,-
+"","Utilitário EsportivoGrande",JEEP,COMPASS,LIMITED TF,1.3 16V T,Combustão,A-6,S,E,F,,"60,560","190,260","5,013",B,0,121,"7,1","8,6","10,4","12,1","1,96",B,C,-
+"","Utilitário EsportivoGrande",JEEP,COMPASS,LONGITUDE TF,1.3 16V T,Combustão,A-6,S,E,F,,"60,560","190,260","5,013",B,0,121,"7,1","8,6","10,4","12,1","1,96",B,C,-
+"","Utilitário EsportivoGrande",JEEP,COMPASS,SERIE S TF,1.3 16V T,Combustão,A-6,S,E,F,,"60,560","190,260","5,013",B,0,121,"7,1","8,6","10,4","12,1","1,96",B,C,-
+"","Utilitário EsportivoGrande",JEEP,COMPASS,SPORT TF,1.3 16V T,Combustão,A-6,S,E,F,,"60,560","190,260","5,013",B,0,121,"7,1","8,6","10,4","12,1","1,96",B,C,-
+"","Utilitário EsportivoGrande",LAMBORGHINI,URUS,--,4.0-32V,Combustão,A-8,S,E,G,,"3,367","147,700","1,068",A,\,248,\,\,"4,9","6,9","4,03",E,E,-
+"","Utilitário EsportivoGrande",MASERATI,LEVANTE,MHEV,"2,0L-16V",Híbrido,A-8,S,E,G,,"24,000","291,900","0,500",A,\,171,\,\,"7,2","9,4","2,77",E,D,-
+"","Utilitário EsportivoGrande",Mitsubishi,Eclipse Cross,GLS,1.5T-16V,Combustão,CVT,S,E,G,,"16,700","140,200","0,820",A,\,121,\,\,"10,4","12,2","1,96",B,C,-
+"","Utilitário EsportivoGrande",Mitsubishi,Eclipse Cross,HPE,1.5T-16V,Combustão,CVT,S,E,G,,"16,700","140,200","0,820",A,\,121,\,\,"10,4","12,2","1,96",B,C,-
+"","Utilitário EsportivoGrande",Mitsubishi,Eclipse Cross,HPE-S,1.5T-16V,Combustão,CVT,S,E,G,,"16,700","140,200","0,820",A,\,121,\,\,"10,4","12,2","1,96",B,C,-
+"","Utilitário EsportivoGrande",PEUGEOT,3008,GT LINE,1.6-16V T,Combustão,A-6,S,E,G,,"41,000","214,000","1,000",B,\,126,\,\,"9,9","11,9","2,04",C,C,-
+"","Utilitário EsportivoGrande",PEUGEOT,3008,GRIFFE AT,1.6-16V T,Combustão,A-6,S,E,G,,"41,000","214,000","1,000",B,\,126,\,\,"9,9","11,9","2,04",C,C,-
+"","Utilitário EsportivoGrande",PEUGEOT,3008,GT PACK A,1.6-16V T,Combustão,A-6,S,E,G,,"41,000","214,000","1,000",B,\,126,\,\,"9,9","11,9","2,04",C,C,-
+"","Utilitário EsportivoGrande",Renault,Captur,Zen,1.3 - 16V,Combustão,CVT,S,E-H,F,,"32,855","63,300","3,846",B,0,120,"7,7","8,2","10,9","11,6","1,92",A,C,-
+"","Utilitário EsportivoGrande",Renault,Captur,Intense,1.3 - 16V,Combustão,CVT,S,E-H,F,,"32,855","63,300","3,846",B,0,120,"7,7","8,2","10,9","11,6","1,92",A,C,-
+"","Utilitário EsportivoGrande",Renault,Captur,Iconic Turbo,1.3 - 16V,Combustão,CVT,S,E-H,F,,"32,855","63,300","3,846",B,0,120,"7,7","8,2","10,9","11,6","1,92",A,C,-
+"","Utilitário EsportivoGrande",Renault,Duster,Life,1.6 - 16V,Combustão,CVT,S,E-H,F,,"50,920","316,540","1,138",B,0,123,"7,2","8,1","10,5","11,5","1,99",B,C,-
+"","Utilitário EsportivoGrande",Renault,Duster,Zen,1.6 - 16V,Combustão,CVT,S,E-H,F,,"50,920","316,540","1,138",B,0,123,"7,2","8,1","10,5","11,5","1,99",B,C,-
+"","Utilitário EsportivoGrande",Renault,Duster,Intense,1.6 - 16V,Combustão,CVT,S,E-H,F,,"50,920","316,540","1,138",B,0,123,"7,2","8,1","10,5","11,5","1,99",B,C,-
+"","Utilitário EsportivoGrande",Renault,Duster,Iconic,1.6 - 16V,Combustão,CVT,S,E-H,F,,"50,920","316,540","1,138",B,0,123,"7,2","8,1","10,5","11,5","1,99",B,C,-
+"","Utilitário EsportivoGrande",Renault,Duster,Zen,1.6 - 16V,Combustão,M-5,S,E,F,,"48,700","299,100","4,560",B,0,112,"8,1","8,5","11,6","12,3","1,81",A,C,-
+"","Utilitário EsportivoGrande",Renault,Duster,Iconic Turbo,1.3 - 16V,Combustão,CVT,S,E-H,F,,"32,420","141,900","2,382",B,0,121,"7,7","8,4","10,8","11,5","1,93",A,C,-
+"","Utilitário EsportivoGrande",VW,TAOS,"COMFORTLINE 250TSIAUTOMÁTICO",1.4-16V,Combustão,A - 6,S,E,F,,"32,400","150,200","4,483",B,0,114,"7,6","9,1","10,9","13,0","1,84",A,C,-
+"","Utilitário EsportivoGrande",VW,TAOS,"HIGHLINE 250TSIAUTOMÁTICO",1.4-16V,Combustão,A - 6,S,E,F,,"32,400","150,200","4,483",B,0,114,"7,6","9,1","10,9","13,0","1,84",A,C,-
+"","Utilitário EsportivoGrande",VOLVO,XC40,"6 ULTIMATE / 6 PLUS / 6CORE /  P6 RECHARGE",Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"27,9","27,9","0,73",A,A,-
+"","Utilitário EsportivoGrande 4x4",BMW,X4,xDrive 30i,2.0 - 16V,Combustão,A-8,S,E-H,G,,"9,350","48,500","1,500",A,\,138,\,\,"9,0","11,0","2,24",B,C,-
+"","Utilitário EsportivoGrande 4x4",BMW,X4,xDrive 30i,2.0 - 16V,Combustão,A-8,S,E-H,G,,"9,350","48,500","1,500",A,\,138,\,\,"9,0","11,0","2,24",B,C,-
+"","Utilitário EsportivoGrande 4x4",BMW,X6,xDrive 40i,3.0 - 24V,Combustão,A-8,S,E-H,G,,"22,750","82,500","1,500",A,\,163,\,\,"7,8","9,2","2,64",C,D,-
+"","Utilitário EsportivoGrande 4x4",BMW,X3,xDrive 30e,2.0 - 16V,Plug-in,A-8,S,E-H,G,,"4,200","102,900","0,100",A,\,61,\,\,"19,4","21,0","1,02",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",BMW,X5,xDrive45e,4.4 - 32V,Plug-in,A-8,S,E-H,G,,"4,020","18,700","0,480",A,\,31,\,\,"19,4","20,7","1,03",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",BMW,X3,M40i,3.0 - 24V,Combustão,A-8,S,E-H,G,,"20,000","90,000","0,600",A,\,162,\,\,"7,8","9,5","2,62",C,D,-
+"","Utilitário EsportivoGrande 4x4",BMW,X3,M40i,3.0 - 24V,Combustão,A-8,S,E-H,G,,"20,000","90,000","0,600",A,\,162,\,\,"7,8","9,5","2,62",C,D,-
+"","Utilitário EsportivoGrande 4x4",BMW,X4,M40i,3.0 - 24V,Combustão,A-8,S,E-H,G,,"19,850","86,500","0,600",A,\,161,\,\,"7,8","9,6","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",BMW,X4,M40i,3.0 - 24V,Combustão,A-8,S,E-H,G,,"19,850","86,500","0,600",A,\,161,\,\,"7,8","9,6","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",BMW,X6,M COMPETITION,"4,4 - 32V",Combustão,A-8,S,E-H,G,,"17,750","80,000","0,850",A,\,215,\,\,"5,9","7,3","3,49",E,E,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,F-PACE,P550 SVR,5.0-32V,Combustão,A-8,S,E,G,,"16,560","203,140","2,040",A,\,214,\,\,"5,6","8,4","3,42",E,E,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,E-PACE,P250F,2.0-16V,Combustão,A-9,S,E,F,,"14,875","411,600","1,920",A,0,163,"5,4","7,0","7,5","10,0","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,E-PACE,P250F RDYNS,2.0-16V,Combustão,A-9,S,E,F,,"14,875","411,600","1,920",A,0,163,"5,4","7,0","7,5","10,0","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,E-PACE,P250F RDYNSE,2.0-16V,Combustão,A-9,S,E,F,,"14,875","411,600","1,920",A,0,163,"5,4","7,0","7,5","10,0","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,E-PACE,P250F SE,2.0-16V,Combustão,A-9,S,E,F,,"14,875","411,600","1,920",A,0,163,"5,4","7,0","7,5","10,0","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,E-PACE,P250F S,2.0-16V,Combustão,A-9,S,E,F,,"14,875","411,600","1,920",A,0,163,"5,4","7,0","7,5","10,0","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,F-PACE,P340,3.0-24V,Híbrido,A-8,S,E,G,,"19,000","202,400","0,000",A,\,170,\,\,"7,2","9,4","2,76",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,F-PACE,P340 RDYN S,3.0-24V,Híbrido,A-8,S,E,G,,"19,000","202,400","0,000",A,\,170,\,\,"7,2","9,4","2,76",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,F-PACE,P340 RDYN SE,3.0-24V,Híbrido,A-8,S,E,G,,"19,000","202,400","0,000",A,\,170,\,\,"7,2","9,4","2,76",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,E-PACE,P250F,2.0-16V,Combustão,A-9,S,E,F,,"14,875","411,600","1,920",A,0,163,"5,4","7,0","7,5","10,0","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,E-PACE,P250F RDYNS,2.0-16V,Combustão,A-9,S,E,F,,"14,875","411,600","1,920",A,0,163,"5,4","7,0","7,5","10,0","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,E-PACE,P250F RDYNSE,2.0-16V,Combustão,A-9,S,E,F,,"14,875","411,600","1,920",A,0,163,"5,4","7,0","7,5","10,0","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,E-PACE,P250F SE,2.0-16V,Combustão,A-9,S,E,F,,"14,875","411,600","1,920",A,0,163,"5,4","7,0","7,5","10,0","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,E-PACE,P250F S,2.0-16V,Combustão,A-9,S,E,F,,"14,875","411,600","1,920",A,0,163,"5,4","7,0","7,5","10,0","2,61",C,D,-
+"","Utilitário EsportivoGrande 4x4",JEEP,COMPASS,LIMITED TD,2.0 T,Combustão,A-9,S,E,D,,"60,200","11,800","0,000",A,\,168,\,\,"10,5","13,9","2,27",B,C,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,F-PACE,P340 RDYNHSE,3.0-24V,Híbrido,A-8,S,E,G,,"19,000","202,400","0,000",A,\,170,\,\,"7,2","9,4","2,76",C,D,-
+"","Utilitário EsportivoGrande 4x4",JAGUAR,F-PACE,P340 SE,3.0-24V,Híbrido,A-8,S,E,G,,"19,000","202,400","0,000",A,\,170,\,\,"7,2","9,4","2,76",C,D,-
+"","Utilitário EsportivoGrande 4x4",JEEP,COMPASS,LONGITUDE TD,2.0 T,Combustão,A-9,S,E,D,,"60,960","11,520","0,000",A,\,167,\,\,"10,7","13,8","2,25",B,C,-
+"","Utilitário EsportivoGrande 4x4",Mercedes-Benz,GLC 220D,ENDR,2.0-16V,Combustão,A-9,S,E,D,,"21,600","11,000","0,000",A,\,181,\,\,"10,3","12,1","2,42",B,D,-
+"","Utilitário EsportivoGrande 4x4",Mercedes-Benz,GLC 220D,OFRD,2.0-16V,Combustão,A-9,S,E,D,,"21,600","11,000","0,000",A,\,181,\,\,"10,3","12,1","2,42",B,D,-
+"","Utilitário EsportivoGrande 4x4",Mercedes-Benz,GLE400D,Coupé,3.0-24V,Combustão,A-9,S,E,D,,"24,900","52,500","0,000",A,\,182,\,\,"10,0","12,8","2,43",B,D,-
+"","Utilitário EsportivoGrande 4x4",Mercedes-Benz,GLE400D,,3.0-24V,Combustão,A-9,S,E,D,,"19,100","43,200","0,000",A,\,204,\,\,"9,0","11,5","2,72",C,D,-
+"","Utilitário EsportivoGrande 4x4",Mercedes-Benz,GLC300 4M,Coupé,2.0-16V,Combustão,A-9,S,E,G,,"9,400","396,000","0,120",A,\,158,\,\,"7,9","9,8","2,57",C,D,-
+"","Utilitário EsportivoGrande 4x4",Mitsubishi,Eclipse Cross,HPE-S S-AWC,1.5T-16V,Combustão,CVT,S,E,G,,"25,600","194,800","0,430",A,\,137,\,\,"9,1","11,2","2,22",A,C,-
+"","Utilitário EsportivoGrande 4x4",PORSCHE,Cayenne,CP PHE / PHEV,3.0-24V,Plug-in,A-8,S,E,G,,"10,800","126,000","0,720",A,\,69,\,\,"16,0","18,1","1,24",A,B,SIM
+"","Utilitário EsportivoGrande 4x4",PORSCHE,Cayenne,"CP TSP, TS PHE",4.0-32V,Plug-in,A-8,S,E,G,,"3,015","131,320","0,840",A,\,87,\,\,"14,9","16,0","1,38",A,B,SIM
+"","Utilitário EsportivoGrande 4x4",PORSCHE,Cayenne,Turbo,4.0-32V,Combustão,A-8,S,E,G,,"44,836","154,400","1,795",A,\,225,\,\,"5,5","7,2","3,65",E,E,-
+"","Utilitário EsportivoGrande 4x4",PORSCHE,Cayenne,Coupe Turbo,4.0-32V,Combustão,A-8,S,E,G,,"44,836","154,400","1,795",A,\,225,\,\,"5,5","7,2","3,65",E,E,-
+"","Utilitário EsportivoGrande 4x4",PORSCHE,Cayenne,GT Coupe,4.0-32V,Combustão,A-8,S,E,G,,"2,700","106,700","1,795",A,\,218,\,\,"5,7","7,4","3,54",E,E,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC40,RECHARGE PE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","25,0","0,74",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC40,8 CORE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","25,0","0,74",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC40,8 PLUS,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","25,0","0,74",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC40,8 ULTIMATE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","25,0","0,74",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC40,P8 RECHARGE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","25,0","0,74",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,T8 MOMENTUM,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,T8 POLESTAR,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,T8 INSCRIPT,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,T8 R-DESIGN,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,INSC EXPRES,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,T8 ULT DARK,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,T8 ULTIMATE,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,T8 PLUS,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,T8 CORE,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,C40,8 ULTIMATE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"26,3","27,6","0,76",A,A,-
+"Utilitário EsportivoGrande 4x4",VOLVO,C40,8 PLUS,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"26,3","27,6","0,76",A,A,-,
+"","Utilitário EsportivoGrande 4x4",PORSCHE,Cayenne,GT Coupe,4.0-32V,Combustão,A-8,S,E,G,,"2,700","106,700","1,795",A,\,218,\,\,"5,7","7,4","3,54",E,E,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC40,RECHARGE PE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","25,0","0,74",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC40,8 CORE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","25,0","0,74",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC40,8 PLUS,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","25,0","0,74",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC40,8 ULTIMATE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","25,0","0,74",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC40,P8 RECHARGE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,3","25,0","0,74",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,T8 MOMENTUM,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC60,T8 POLESTAR,2.0-16V,Plug-in,A-8,S,E,G,,"3,776","48,600","0,420",A,\,29,\,\,"26,7","24,3","0,77",A,A,SIM
+"",,,,,,,,,,,,,,,,,,,,,,,,,
+"",Categoria,Marca,Modelo,Versão,Motor,"Tipo dePropulsãoCombustãoHíbridoPlug-inElétrico","TransmissãoVelocidades(no)","ArCond.","DireçãoAssistida",Combustível,,Emissões no Escapamento,Quilometragem por Litro,"ConsumoEnergético(MJ/km)","ClassificaçãoPBE","SeloCONPETdeEficiênciaEnergética((A+B).A).(A.(A+B))",,,,,,,,,
+"",,,,,,"Manual (M)Automática (A)Automática DuplaEmbreagem (DCT)Automatizada(MTA)Contínua (CVT)","Hidráulica(H)Mecânica(M)Elétrica(E)Eletro-hidráulica(E-H)","Elétrico (E)Gasolina (G)Flex (F)Diesel (D)",,Poluentes,Gás Efeito Estufa,,,,,,,,,,,,,,
+"",,,,,,,,,,,"NMOG+NOx(mg/km)","CO(mg/km)","CHO(mg/km)","ReduçãoRelativaaoLimite",Etanol,"GasolinaouDiesel",Etanol,"Gasolina ou Dieselou Elétrico(km/l equivalente)",,,,,,,
+"",,,,,,,"Sim(S)Não(N)","CO2fóssil(g/km)","CO2fóssil(g/km)","Cidade(km/l)","Estrada(km/l)","Cidade(km/l)","Estrada(km/l)","ComparaçãoRelativanaCategoria","ComparaçãoAbsolutaGeral",,,,,,,,,,
+"","Utilitário EsportivoGrande 4x4",VOLVO,C40,8 CORE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"26,3","27,6","0,76",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,C40,P8 RECHARGE,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"26,3","27,6","0,76",A,A,-
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC90,INSC EXPRES,2.0-16V,Plug-in,A-8,S,E,G,,"7,100","68,500","0,100",A,\,36,\,\,"23,5","21,2","0,90",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC90,T8 EXCELLEN,2.0-16V,Plug-in,A-8,S,E,G,,"7,100","68,500","0,100",A,\,36,\,\,"23,5","21,2","0,90",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC90,T8 INSCRIPT,2.0-16V,Plug-in,A-8,S,E,G,,"7,100","68,500","0,100",A,\,36,\,\,"23,5","21,2","0,90",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC90,T8 MOMENTUM,2.0-16V,Plug-in,A-8,S,E,G,,"7,100","68,500","0,100",A,\,36,\,\,"23,5","21,2","0,90",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC90,T8 POLESTAR,2.0-16V,Plug-in,A-8,S,E,G,,"7,100","68,500","0,100",A,\,36,\,\,"23,5","21,2","0,90",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC90,T8 R-DESIGN,2.0-16V,Plug-in,A-8,S,E,G,,"7,100","68,500","0,100",A,\,36,\,\,"23,5","21,2","0,90",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC90,T8 ULT DARK,2.0-16V,Plug-in,A-8,S,E,G,,"7,100","68,500","0,100",A,\,36,\,\,"23,5","21,2","0,90",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC90,T8 ULTIMATE,2.0-16V,Plug-in,A-8,S,E,G,,"7,100","68,500","0,100",A,\,36,\,\,"23,5","21,2","0,90",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC90,T8 PLUS,2.0-16V,Plug-in,A-8,S,E,G,,"7,100","68,500","0,100",A,\,36,\,\,"23,5","21,2","0,90",A,A,SIM
+"","Utilitário EsportivoGrande 4x4",VOLVO,XC90,T8 CORE,2.0-16V,Plug-in,A-8,S,E,G,,"7,100","68,500","0,100",A,\,36,\,\,"23,5","21,2","0,90",A,A,SIM
+"","Fora de EstradaCompacto",JEEP,WRANGLER,SAHARA,2.0-16V,Combustão,A-8,S,E-H,G,,"21,820","172,340","0,480",A,\,163,\,\,"8,0","8,9","2,64",C,D,-
+"","Fora de EstradaCompacto",JEEP,RENEGADE,TRAILHAWK TF,1.3 16V T,Combustão,A-9,S,E,F,,"40,607","196,980","6,177",B,0,139,"6,3","7,6","9,1","10,8","2,24",A,C,-
+"","Fora de EstradaCompacto",SUZUKI,JIMNY SIERRA,4YOU ALLGRIP,1.5-16V,Combustão,A-4,S,E,G,,"18,300","121,300","2,200",A,\,125,\,\,"10,6","10,8","2,04",A,C,-
+"","Fora de EstradaCompacto",SUZUKI,JIMNY SIERRA,4STYLE ALLGRIP,1.5-16V,Combustão,A-4,S,E,G,,"18,300","121,300","2,200",A,\,125,\,\,"10,6","10,8","2,04",A,C,-
+"","Fora de EstradaCompacto",SUZUKI,JIMNY SIERRA,4YOU ALLGRIP,1.5-16V,Combustão,M-5,S,E,G,,"22,000","127,800","2,300",A,\,118,\,\,"10,9","11,9","1,92",A,C,-
+"","Fora de EstradaCompacto",SUZUKI,JIMNY SIERRA,4ALL ALLGRIP,1.5-16V,Combustão,M-5,S,E,G,,"22,000","127,800","2,300",A,\,118,\,\,"10,9","11,9","1,92",A,C,-
+"",Fora de Estrada Grande,CHEVROLET,TRAILBLAZER,LT D4A,2.8 - 16V,Combustão,A-6,S,E,D,,"251,551","40,957","0,000",B,\,224,\,\,"8,2","10,3","3,03",D,D,-
+"",Fora de Estrada Grande,CHEVROLET,TRAILBLAZER,PRE D4A,2.8 - 16V,Combustão,A-6,S,E,D,,"251,551","40,957","0,000",B,\,224,\,\,"8,2","10,3","3,03",D,D,-
+"",Fora de Estrada Grande,FORD,Bronco Sport,Wildtrak,2.0 - 16V,Combustão,A-8,S,E,G,,"28,600","407,200","1,210",B,\,145,\,\,"8,6","10,5","2,36",B,C,-
+"",Fora de Estrada Grande,JEEP,COMMANDER,OVERLAND TD380,2.0 T,Combustão,A-9,S,E,D,,"83,500","16,100",ND,A,\,176,\,\,"10,3","12,9","2,37",B,C,-
+"",Fora de Estrada Grande,JEEP,COMMANDER,LIMITED TD380,2.0 T,Combustão,A-9,S,E,D,,"83,500","16,100",ND,A,\,176,\,\,"10,3","12,9","2,37",B,C,-
+"",Fora de Estrada Grande,JEEP,WRANGLER,UNLIMITED RUBICON,2.0-16V,Combustão,A-8,S,E-H,G,,"21,380","222,040","0,480",B,\,176,\,\,"7,5","8,2","2,86",C,D,-
+"",Fora de Estrada Grande,JEEP,WRANGLER,UNLIMITED SAHARA,2.0-16V,Combustão,A-8,S,E-H,G,,"28,960","162,400","0,486",A,\,165,\,\,"7,9","8,8","2,67",C,D,-
+"",Fora de Estrada Grande,JEEP,COMPASS,TRAILHAWK TD,2.0 T,Combustão,A-9,S,E,D,,"63,700","10,700","0,000",A,\,171,\,\,"10,4","13,5","2,31",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 S,2.0-16V,Híbrido,A-9,S,E,D,,"17,520","24,240",ND,A,\,160,\,\,"12,3","12,1","2,17",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 S 7L,2.0-16V,Híbrido,A-9,S,E,D,,"17,520","24,240",ND,A,\,160,\,\,"12,3","12,1","2,17",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE,2.0-16V,Híbrido,A-9,S,E,D,,"17,520","24,240",ND,A,\,160,\,\,"12,3","12,1","2,17",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE RD,2.0-16V,Híbrido,A-9,S,E,D,,"17,520","24,240",ND,A,\,160,\,\,"12,3","12,1","2,17",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE RD7L,2.0-16V,Híbrido,A-9,S,E,D,,"17,520","24,240",ND,A,\,160,\,\,"12,3","12,1","2,17",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE 7L,2.0-16V,Híbrido,A-9,S,E,D,,"17,520","24,240",ND,A,\,160,\,\,"12,3","12,1","2,17",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,VELAR,P340,3.0-24V,Híbrido,A-8,S,E,G,,"20,160","381,570","0,002",A,\,168,\,\,"7,3","9,7","2,72",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,VELAR,P340 SE,3.0-24V,Híbrido,A-8,S,E,G,,"20,160","381,570","0,002",A,\,168,\,\,"7,3","9,7","2,72",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,VELAR,P340 SE RDYN,3.0-24V,Híbrido,A-8,S,E,G,,"20,160","381,570","0,002",A,\,168,\,\,"7,3","9,7","2,72",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,VELAR,P340 HSE RDYN,3.0-24V,Híbrido,A-8,S,E,G,,"20,160","381,570","0,002",A,\,168,\,\,"7,3","9,7","2,72",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,3.0 TD HSE,3.0-24V,Híbrido,A-8,S,E,D,,"28,020","94,980",ND,A,\,170,\,\,"11,6","11,5","2,30",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,3.0 TD HSED,3.0-24V,Híbrido,A-8,S,E,D,,"28,020","94,980",ND,A,\,170,\,\,"11,6","11,5","2,30",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,3.0 TD SE,3.0-24V,Híbrido,A-8,S,E,D,,"28,020","94,980",ND,A,\,170,\,\,"11,6","11,5","2,30",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,EVOQUE,P250FF HSERD,2.0-16V,Combustão,A-9,S,E,F,,"12,120","360,500","3,240",A,0,151,"5,4","7,1","8,2","10,4","2,49",B,D,-
+"",Fora de Estrada Grande,LAND ROVER,EVOQUE,P250FF S,2.0-16V,Combustão,A-9,S,E,F,,"12,120","360,500","3,240",A,0,151,"5,4","7,1","8,2","10,4","2,49",B,D,-
+"",Fora de Estrada Grande,LAND ROVER,EVOQUE,P250FF SE,2.0-16V,Combustão,A-9,S,E,F,,"12,120","360,500","3,240",A,0,151,"5,4","7,1","8,2","10,4","2,49",B,D,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,P250FF S,2.0-16V,Combustão,A-9,S,E,F,,"12,840","338,210","3,900",A,0,181,"4,9","6,2","7,0","8,6","2,90",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,P250FF S 7L,2.0-16V,Combustão,A-9,S,E,F,,"12,840","338,210","3,900",A,0,181,"4,9","6,2","7,0","8,6","2,90",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,P250FF SE,2.0-16V,Combustão,A-9,S,E,F,,"12,840","338,210","3,900",A,0,181,"4,9","6,2","7,0","8,6","2,90",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,P250FF SE 7L,2.0-16V,Combustão,A-9,S,E,F,,"12,840","338,210","3,900",A,0,181,"4,9","6,2","7,0","8,6","2,90",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,P250FF SE RD,2.0-16V,Combustão,A-9,S,E,F,,"12,840","338,210","3,900",A,0,181,"4,9","6,2","7,0","8,6","2,90",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,P250FF SERD7,2.0-16V,Combustão,A-9,S,E,F,,"12,840","338,210","3,900",A,0,181,"4,9","6,2","7,0","8,6","2,90",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 S,2.0-16V,Híbrido,A-9,S,E,D,,"25,380","21,600",ND,A,\,151,\,\,"13,0","12,9","2,04",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 S 7L,2.0-16V,Híbrido,A-9,S,E,D,,"25,380","21,600",ND,A,\,151,\,\,"13,0","12,9","2,04",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE,2.0-16V,Híbrido,A-9,S,E,D,,"25,380","21,600",ND,A,\,151,\,\,"13,0","12,9","2,04",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE RD,2.0-16V,Híbrido,A-9,S,E,D,,"25,380","21,600",ND,A,\,151,\,\,"13,0","12,9","2,04",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE RD7L,2.0-16V,Híbrido,A-9,S,E,D,,"25,380","21,600",ND,A,\,151,\,\,"13,0","12,9","2,04",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE 7L,2.0-16V,Híbrido,A-9,S,E,D,,"25,380","21,600",ND,A,\,151,\,\,"13,0","12,9","2,04",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY,D300 HSERD,3.0-24V,Híbrido,A-8,S,E,D,,"21,633","61,267",ND,A,\,171,\,\,"11,4","11,6","2,32",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY,D300 LE,3.0-24V,Híbrido,A-8,S,E,D,,"21,633","61,267",ND,A,\,171,\,\,"11,4","11,6","2,32",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY,D300 SERD,3.0-24V,Híbrido,A-8,S,E,D,,"21,633","61,267",ND,A,\,171,\,\,"11,4","11,6","2,32",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY,D300 SRD,3.0-24V,Híbrido,A-8,S,E,D,,"21,633","61,267",ND,A,\,171,\,\,"11,4","11,6","2,32",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY,D300 SE,3.0-24V,Híbrido,A-8,S,E,D,,"21,633","61,267",ND,A,\,171,\,\,"11,4","11,6","2,32",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,VELAR,P340,3.0-24V,Híbrido,A-8,S,E,G,,"19,754","202,271","0,000",A,\,138,\,\,"9,6","10,0","2,24",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,VELAR,P340 SE,3.0-24V,Híbrido,A-8,S,E,G,,"19,754","202,271","0,000",A,\,138,\,\,"9,6","10,0","2,24",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,VELAR,P340 SE RDYN,3.0-24V,Híbrido,A-8,S,E,G,,"19,754","202,271","0,000",A,\,138,\,\,"9,6","10,0","2,24",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,VELAR,P340 HSE RDYN,3.0-24V,Híbrido,A-8,S,E,G,,"19,754","202,271","0,000",A,\,138,\,\,"9,6","10,0","2,24",A,C,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 90,-,3.0-24V,Híbrido,A-8,S,E,D,,"25,026","84,566",ND,A,\,167,\,\,"11,6","11,9","2,27",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 90,S,3.0-24V,Híbrido,A-8,S,E,D,,"25,026","84,566",ND,A,\,167,\,\,"11,6","11,9","2,27",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 90,SE,3.0-24V,Híbrido,A-8,S,E,D,,"25,026","84,566",ND,A,\,167,\,\,"11,6","11,9","2,27",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 90,HSE,3.0-24V,Híbrido,A-8,S,E,D,,"25,026","84,566",ND,A,\,167,\,\,"11,6","11,9","2,27",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 90,SE XD,3.0-24V,Híbrido,A-8,S,E,D,,"25,026","84,566",ND,A,\,167,\,\,"11,6","11,9","2,27",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 90,HSE XD,3.0-24V,Híbrido,A-8,S,E,D,,"25,026","84,566",ND,A,\,167,\,\,"11,6","11,9","2,27",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,.,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,7L,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,SE,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,SE 7L,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,SE XD,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,SE XD 7L,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,HSE,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,HSE 7L,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,HSE XD,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,HSE XD 7L,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,X,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DEFENDER 110,X 7L,3.0-24V,Híbrido,A-8,S,E,D,,"29,396","78,158",ND,A,\,189,\,\,"9,9","11,4","2,56",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 S,2.0-16V,Híbrido,A-9,S,E,D,,"25,271","31,489",ND,A,\,170,\,\,"10,7","12,9","2,30",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 S 7L,2.0-16V,Híbrido,A-9,S,E,D,,"25,271","31,489",ND,A,\,170,\,\,"10,7","12,9","2,30",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE,2.0-16V,Híbrido,A-9,S,E,D,,"25,271","31,489",ND,A,\,170,\,\,"10,7","12,9","2,30",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE RD,2.0-16V,Híbrido,A-9,S,E,D,,"25,271","31,489",ND,A,\,170,\,\,"10,7","12,9","2,30",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE RD7L,2.0-16V,Híbrido,A-9,S,E,D,,"25,271","31,489",ND,A,\,170,\,\,"10,7","12,9","2,30",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE 7L,2.0-16V,Híbrido,A-9,S,E,D,,"25,271","31,489",ND,A,\,170,\,\,"10,7","12,9","2,30",B,C,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350,3.0-24V,Híbrido,A-8,S,E,D,,"33,000","58,200",ND,A,\,194,\,\,"9,5","11,3","2,63",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350 AB,3.0-24V,Híbrido,A-8,S,E,D,,"33,000","58,200",ND,A,\,194,\,\,"9,5","11,3","2,63",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350 HSE,3.0-24V,Híbrido,A-8,S,E,D,,"33,000","58,200",ND,A,\,194,\,\,"9,5","11,3","2,63",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350 LE,3.0-24V,Híbrido,A-8,S,E,D,,"33,000","58,200",ND,A,\,194,\,\,"9,5","11,3","2,63",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350 SE,3.0-24V,Híbrido,A-8,S,E,D,,"33,000","58,200",ND,A,\,194,\,\,"9,5","11,3","2,63",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350 SV,3.0-24V,Híbrido,A-8,S,E,D,,"33,000","58,200",ND,A,\,194,\,\,"9,5","11,3","2,63",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,3.0 TD HSE,3.0-24V,Híbrido,A-8,S,E,D,,"21,720","50,280",ND,A,\,190,\,\,"9,7","11,6","2,58",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,3.0 TD HSED,3.0-24V,Híbrido,A-8,S,E,D,,"21,720","50,280",ND,A,\,190,\,\,"9,7","11,6","2,58",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,3.0 TD SE,3.0-24V,Híbrido,A-8,S,E,D,,"21,720","50,280",ND,A,\,190,\,\,"9,7","11,6","2,58",C,D,-
+"",Fora de Estrada Grande,Mitsubishi,Pajero Sport,HPE,2.4-16V,Combustão,A-8,S,H,D,,"210,000","15,200",ND,B,\,205,\,\,"8,9","11,4","2,75",C,D,-
+"",Fora de Estrada Grande,Mitsubishi,Pajero Sport,HPE-S,2.4-16V,Combustão,A-8,S,H,D,,"210,000","15,200",ND,B,\,205,\,\,"8,9","11,4","2,75",C,D,-
+"",Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,SRX,2.8-16V,Combustão,A-6,S,H,D,,"189,254","15,819",ND,B,\,191,\,\,"9,8","11,2","2,59",C,D,-
+"",Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,DIAMOND,2.8-16V,Combustão,A-6,S,H,D,,"189,254","15,819",ND,B,\,191,\,\,"9,8","11,2","2,59",C,D,-
+"",Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,GRS,2.8-16V,Combustão,A-6,S,H,D,,"189,254","15,819",ND,B,\,191,\,\,"9,8","11,2","2,59",C,D,-
+"",Picape Compacta,FIAT,STRADA,FREEDOM CD,1.3-8V,Combustão,M-5,S,E,F,,"52,810","423,150","5,280",B,0,101,"8,9","9,9","12,4","14,0","1,62",A,B,SIM
+"",Picape Compacta,FIAT,STRADA,FREEDOM CS,1.3-8V,Combustão,M-5,S,E,F,,"52,475","337,050","4,506",B,0,97,"9,1","10,1","12,9","14,6","1,57",A,B,SIM
+"",Picape Compacta,FIAT,STRADA,RANCH AT,1.3-8V,Combustão,CVT-7,S,E,F,,"42,695","387,030","3,870",B,0,102,"8,8","9,9","12,4","13,9","1,63",A,B,SIM
+"",Picape Compacta,FIAT,STRADA,VOLCANO AT,1.3-8V,Combustão,CVT-7,S,E,F,,"42,695","387,030","3,870",B,0,102,"8,8","9,9","12,4","13,9","1,63",A,B,SIM
+"",Picape Compacta,FIAT,STRADA,VOLCANO CD,1.3-8V,Combustão,M-5,S,E,F,,"52,810","423,150","5,280",B,0,101,"8,9","9,9","12,4","14,0","1,62",A,B,SIM
+"",Picape Compacta,FIAT,STRADA,ENDURANCE CD,1.4-8V,Combustão,M-5,S,H,F,,"38,500","377,650","2,082",A,0,107,"8,4","9,2","11,9","13,3","1,72",A,B,SIM
+"",Picape Compacta,FIAT,STRADA,ENDURANCE CS,1.4-8V,Combustão,M-5,S,H,F,,"38,500","377,650","2,082",A,0,107,"8,4","9,2","11,9","13,3","1,72",A,B,SIM
+"",Picape Compacta,Renault,OROCH,Intense,1.3 - 16V,Combustão,CVT,S,E -H,F,,"33,700","106,100","3,457",B,0,125,"7,4","7,8","10,5","11,0","2,01",E,C,-
+"",Picape Compacta,Renault,OROCH,Iconic,1.3 - 16V,Combustão,CVT,S,E -H,F,,"33,700","106,100","3,457",B,0,125,"7,4","7,8","10,5","11,0","2,01",E,C,-
+"",Picape Compacta,Renault,OROCH,Outsider Turbo,1.3 - 16V,Combustão,CVT,S,E -H,F,,"33,700","106,100","3,457",B,0,125,"7,4","7,8","10,5","11,0","2,01",E,C,-
+"",Picape Compacta,VW,SAVEIRO,TRENDLINE SC,1.6-16V,Combustão,M - 5,S,H,F,,"34,800","152,320","2,804",B,0,110,"8,1","9,0","11,7","12,8","1,77",B,C,-
+"",Picape Compacta,VW,SAVEIRO,ROBUST SC,1.6-16V,Combustão,M - 5,S,H,F,,"34,800","152,320","2,804",B,0,110,"8,1","9,0","11,7","12,8","1,77",B,C,-
+"",Picape Compacta,VW,SAVEIRO,CROSS CD,1.6-16V,Combustão,M - 5,S,H,F,,"37,950","171,780","2,685",B,0,113,"7,9","8,8","11,4","12,5","1,82",B,C,-
+Picape Compacta,VW,SAVEIRO,ROBUST CD,1.6-16V,Combustão,M - 5,S,H,F,,"37,950","171,780","2,685",B,0,113,"7,9","8,8","11,4","12,5","1,82",B,C,-,
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,3.0 TD HSED,3.0-24V,Híbrido,A-8,S,E,D,,"21,720","50,280",ND,A,\,190,\,\,"9,7","11,6","2,58",C,D,-
+"",Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,3.0 TD SE,3.0-24V,Híbrido,A-8,S,E,D,,"21,720","50,280",ND,A,\,190,\,\,"9,7","11,6","2,58",C,D,-
+"",Fora de Estrada Grande,Mitsubishi,Pajero Sport,HPE,2.4-16V,Combustão,A-8,S,H,D,,"210,000","15,200",ND,B,\,205,\,\,"8,9","11,4","2,75",C,D,-
+"",Fora de Estrada Grande,Mitsubishi,Pajero Sport,HPE-S,2.4-16V,Combustão,A-8,S,H,D,,"210,000","15,200",ND,B,\,205,\,\,"8,9","11,4","2,75",C,D,-
+"",Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,SRX,2.8-16V,Combustão,A-6,S,H,D,,"189,254","15,819",ND,B,\,191,\,\,"9,8","11,2","2,59",C,D,-
+"",Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,DIAMOND,2.8-16V,Combustão,A-6,S,H,D,,"189,254","15,819",ND,B,\,191,\,\,"9,8","11,2","2,59",C,D,-
+"",Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,GRS,2.8-16V,Combustão,A-6,S,H,D,,"189,254","15,819",ND,B,\,191,\,\,"9,8","11,2","2,59",C,D,-
+"",Picape Compacta,FIAT,STRADA,FREEDOM CD,1.3-8V,Combustão,M-5,S,E,F,,"52,810","423,150","5,280",B,0,101,"8,9","9,9","12,4","14,0","1,62",A,B,SIM
+Picape Compacta,FIAT,STRADA,FREEDOM CS,1.3-8V,Combustão,M-5,S,E,F,,"52,475","337,050","4,506",B,0,97,"9,1","10,1","12,9","14,6","1,57",A,B,SIM,
+"",,,,,,,,,,,,,,,,,,,,,,,,,
+"",Categoria,Marca,Modelo,Versão,Motor,"Tipo dePropulsãoCombustãoHíbridoPlug-inElétrico","TransmissãoVelocidades(no)","ArCond.","DireçãoAssistida",Combustível,,Emissões no Escapamento,Quilometragem por Litro,"ConsumoEnergético(MJ/km)","ClassificaçãoPBE","SeloCONPETdeEficiênciaEnergética((A+B).A).(A.(A+B))",,,,,,,,,
+"",,,,,,"Manual (M)Automática (A)Automática DuplaEmbreagem (DCT)Automatizada(MTA)Contínua (CVT)","Hidráulica(H)Mecânica(M)Elétrica(E)Eletro-hidráulica(E-H)","Elétrico (E)Gasolina (G)Flex (F)Diesel (D)",,Poluentes,Gás Efeito Estufa,,,,,,,,,,,,,,
+"",,,,,,,,,,,"NMOG+NOx(mg/km)","CO(mg/km)","CHO(mg/km)","ReduçãoRelativaaoLimite",Etanol,"GasolinaouDiesel",Etanol,"Gasolina ou Dieselou Elétrico(km/l equivalente)",,,,,,,
+"",,,,,,,"Sim(S)Não(N)","CO2fóssil(g/km)","CO2fóssil(g/km)","Cidade(km/l)","Estrada(km/l)","Cidade(km/l)","Estrada(km/l)","ComparaçãoRelativanaCategoria","ComparaçãoAbsolutaGeral",,,,,,,,,,
+"",Picape,CHEVROLET,S10,HC DD4A,2.8 - 16V,Combustão,A-6,S,E,D,,"296,622","26,854","0,000",B,\,219,\,\,"8,4","10,4","2,96",D,D,-
+"",Picape,CHEVROLET,S10,LT DD4A,2.8 - 16V,Combustão,A-6,S,E,D,,"275,008","26,542","0,000",B,\,211,\,\,"8,6","10,9","2,86",C,D,-
+"",Picape,CHEVROLET,S10,LTZ DD4A,2.8 - 16V,Combustão,A-6,S,E,D,,"275,008","26,542","0,000",B,\,211,\,\,"8,6","10,9","2,86",C,D,-
+"",Picape,CHEVROLET,S10,LS DD4,2.8 - 16V,Combustão,M-6,S,E,D,,"284,410","70,465","0,000",B,\,202,\,\,"9,3","10,8","2,73",C,D,-
+"",Picape,CHEVROLET,S10,LT DD4,2.8 - 16V,Combustão,M-6,S,E,D,,"284,410","70,465","0,000",B,\,202,\,\,"9,3","10,8","2,73",C,D,-
+"",Picape,CHEVROLET,S10,LS DS4,2.8 - 16V,Combustão,M-6,S,E,D,,"261,345","58,698","0,000",B,\,202,\,\,"9,4","10,6","2,73",C,D,-
+"",Picape,CHEVROLET,S10,LS DS4C,2.8 - 16V,Combustão,M-6,S,E,D,,"261,345","58,698","0,000",B,\,202,\,\,"9,4","10,6","2,73",C,D,-
+"",Picape,CHEVROLET,S10,Z71,2.8 - 16V,Combustão,A-6,S,E,D,,"283,389","27,899","0,000",B,\,224,\,\,"8,3","10,0","3,01",D,D,-
+"",Picape,FIAT,TORO,ENDURANCE TURBO,1.3 16V T,Combustão,A-6,S,E,F,,"47,345","199,850","4,335",B,0,130,"6,8","8,2","9,7","11,6","2,08",A,C,-
+"",Picape,FIAT,TORO,FREEDOM TURBO (OPT 31S),1.3 16V T,Combustão,A-6,S,E,F,,"45,600","196,700","3,792",B,0,133,"6,6","7,9","9,5","11,2","2,15",A,C,-
+"",Picape,FIAT,TORO,VOLCANO TURBO,1.3 16V T,Combustão,A-6,S,E,F,,"48,030","204,470","4,350",B,0,132,"6,6","8,0","9,5","11,2","2,13",A,C,-
+"",Picape,FIAT,TORO,FREEDOM TURBO,1.3 16V T,Combustão,A-6,S,E,F,,"48,030","204,470","4,350",B,0,132,"6,6","8,0","9,5","11,2","2,13",A,C,-
+"",Picape,FIAT,TORO,ENDURANCE AT9 4X4,2.0 T,Combustão,A-9,S,E,D,,"96,300","12,600","0,000",A,\,168,\,\,"10,6","13,6","2,27",A,C,-
+"",Picape,FIAT,TORO,RANCH AT9 4X4,2.0 T,Combustão,A-9,S,E,D,,"113,200","11,200","0,000",A,\,175,\,\,"10,4","12,7","2,37",A,C,-
+"",Picape,FIAT,TORO,VOLCANO AT9 4X4,2.0 T,Combustão,A-9,S,E,D,,"113,200","11,200","0,000",A,\,175,\,\,"10,4","12,7","2,37",A,C,-
+"",Picape,FIAT,TORO,ULTRA AT9 4X4,2.0 T,Combustão,A-9,S,E,D,,"88,940","11,900","0,000",A,\,179,\,\,"10,1","12,6","2,42",B,D,-
+"",Picape,FIAT,TORO,FREEDOM AT9 4X4,2.0 T,Combustão,A-9,S,E,D,,"88,940","11,900","0,000",A,\,179,\,\,"10,1","12,6","2,42",B,D,-
+"",Picape,FORD,Maverick,XLT,2.0 GTDi,Combustão,A-8,S,E,G,,"26,100","366,600","1,310",B,\,139,\,\,"8,8","11,1","2,26",A,C,-
+"",Picape,FORD,Maverick,Lariat FX4,2.0 GTDi,Combustão,A-8,S,E,G,,"26,100","366,600","1,310",B,\,139,\,\,"8,8","11,1","2,26",A,C,-
+"",Picape,FORD,Ranger 4x4 CS / CD,XL,2.2 - 16V,Combustão,M-6,S,E,D,,"115,500","96,500",ND,A,\,187,\,\,"10,4","10,7","2,55",B,D,-
+"",Picape,FORD,Ranger 4x2,XLS,2.2 - 16V,Combustão,A-6,S,E,D,,"159,000","32,700",ND,B,\,199,\,\,"9,5","10,7","2,71",C,D,-
+"",Picape,FORD,Ranger 4x2,XLS Black,2.2 - 16V,Combustão,A-6,S,E,D,,"159,000","32,700",ND,B,\,199,\,\,"9,5","10,7","2,71",C,D,-
+"",Picape,FORD,Ranger 4x4,XLS,2.2 - 16V,Combustão,A-6,S,E,D,,"237,900","39,900",ND,B,\,208,\,\,"9,1","10,2","2,82",C,D,-
+"",Picape,FORD,Ranger 4x4,XL,3.2 - 20V,Combustão,A-6,S,E,D,,"73,800","104,900",ND,A,\,222,\,\,"8,6","9,6","3,02",D,D,-
+"",Picape,FORD,Ranger 4x4,XLS,3.2 - 20V,Combustão,A-6,S,E,D,,"73,800","104,900",ND,A,\,222,\,\,"8,6","9,6","3,02",D,D,-
+"",Picape,FORD,Ranger 4x4,XLT,3.2 - 20V,Combustão,A-6,S,E,D,,"73,800","104,900",ND,A,\,222,\,\,"8,6","9,6","3,02",D,D,-
+"",Picape,FORD,Ranger 4x4,FX4,3.2 - 20V,Combustão,A-6,S,E,D,,"73,800","104,900",ND,A,\,222,\,\,"8,6","9,6","3,02",D,D,-
+"",Picape,FORD,Ranger 4x4,STORM,3.2 - 20V,Combustão,A-6,S,E,D,,"73,800","104,900",ND,A,\,222,\,\,"8,6","9,6","3,02",D,D,-
+"",Picape,FORD,Ranger 4x4,LTD,3.2 - 20V,Combustão,A-6,S,E,D,,"73,800","104,900",ND,A,\,222,\,\,"8,6","9,6","3,02",D,D,-
+"",Picape,Jac,IEV 330P,iEV330P,Elétrico,Elétrico,A,S,E-H,E,,"0,000","0,000","0,000",A,\,0,\,\,"29,2","25,1","0,75",A,A,-
+"",Picape,Mitsubishi,L200 Triton Outdoor,GLX,2.4-16V,Combustão,M-6,S,H,D,,"212,600","20,850",ND,B,\,177,\,\,"10,5","12,5","2,36",A,C,-
+"",Picape,Mitsubishi,L200 Triton Outdoor,GLS,2.4-16V,Combustão,A-5,S,H,D,,"188,900","12,100",ND,B,\,195,\,\,"9,8","11,1","2,61",B,D,-
+"",Picape,Mitsubishi,L200 Triton,GL,2.4-16V,Combustão,M-6,S,H,D,,"212,600","20,850",ND,B,\,177,\,\,"10,5","12,5","2,36",A,C,-
+"",Picape,Mitsubishi,L200 Triton,GLS,2.4-16V,Combustão,A-5,S,H,D,,"188,900","12,100",ND,B,\,195,\,\,"9,8","11,1","2,61",B,D,-
+"",Picape,Mitsubishi,L200 Triton,SAVANA,2.4-16V,Combustão,A-5,S,H,D,,"188,900","12,100",ND,B,\,195,\,\,"9,8","11,1","2,61",B,D,-
+"",Picape,Mitsubishi,L200 Triton Sport,GLS,2.4-16V,Combustão,M-6,S,H,D,,"214,200","18,400",ND,B,\,188,\,\,"10,3","11,1","2,52",B,D,-
+"",Picape,Mitsubishi,L200 Triton Sport,GLX,2.4-16V,Combustão,M-6,S,H,D,,"214,200","18,400",ND,B,\,188,\,\,"10,3","11,1","2,52",B,D,-
+"",Picape,Mitsubishi,L200 Triton Sport,GL,2.4-16V,Combustão,M-6,S,H,D,,"214,200","18,400",ND,B,\,188,\,\,"10,3","11,1","2,52",B,D,-
+"",Picape,Mitsubishi,L200 Triton Sport,GLS,2.4-16V,Combustão,A-6,S,H,D,,"212,800","16,200",ND,B,\,211,\,\,"9,2","10,2","2,82",C,D,-
+"",Picape,Mitsubishi,L200 Triton Sport,HPE,2.4-16V,Combustão,A-6,S,H,D,,"212,800","16,200",ND,B,\,211,\,\,"9,2","10,2","2,82",C,D,-
+"",Picape,Mitsubishi,L200 Triton Sport,HPE-S,2.4-16V,Combustão,A-6,S,H,D,,"212,800","16,200",ND,B,\,211,\,\,"9,2","10,2","2,82",C,D,-
+"",Picape,NISSAN,Frontier,S,2.3-16V,Combustão,M-6,S,H,D,,"101,400","80,400",ND,A,\,200,\,\,"9,5","10,9","2,68",C,D,-
+"",Picape,NISSAN,Frontier,ATK,2.3-16V,Combustão,A-7,S,H,D,,"116,400","25,520",ND,A,\,203,\,\,"9,1","11,0","2,74",C,D,-
+"",Picape,NISSAN,Frontier,PRO4X,2.3-16V,Combustão,A-7,S,H,D,,"116,400","25,520",ND,A,\,203,\,\,"9,1","11,0","2,74",C,D,-
+"",Picape,NISSAN,Frontier,SE,2.3-16V,Combustão,A-7,S,H,D,,"116,400","25,520",ND,A,\,203,\,\,"9,1","11,0","2,74",C,D,-
+"",Picape,NISSAN,Frontier,PLT,2.3-16V,Combustão,A-7,S,H,D,,"120,000","25,520",ND,A,\,203,\,\,"9,1","11,0","2,74",C,D,-
+"",Picape,NISSAN,Frontier,XE,2.3-16V,Combustão,A-7,S,H,D,,"120,000","25,520",ND,A,\,203,\,\,"9,1","11,0","2,74",C,D,-
+"",Picape,RAM,1500,REBEL HEMI,5.7-16V,Combustão,A-8,S,E-H,G,,"27,330","410,200","2,400",B,\,234,\,\,"5,4","6,8","3,80",E,E,-
+"",Picape,TOYOTA,HILUX DIESEL 4X4,SRX,2.8-16V,Combustão,A-6,S,H,D,,"180,577","17,841",ND,A,\,187,\,\,"10,1","11,3","2,54",B,D,-
+"",Picape,TOYOTA,HILUX DIESEL 4X4,SRV,2.8-16V,Combustão,A-6,S,H,D,,"180,577","17,841",ND,A,\,187,\,\,"10,1","11,3","2,54",B,D,-
+"",Picape,TOYOTA,HILUX DIESEL 4X4,SR,2.8-16V,Combustão,A-6,S,H,D,,"180,577","17,841",ND,A,\,187,\,\,"10,1","11,3","2,54",B,D,-
+"",Picape,TOYOTA,HILUX DIESEL 4X4,SC,2.8-16V,Combustão,M-6,S,H,D,,"240,294","39,523",ND,B,\,182,\,\,"10,4","11,6","2,46",B,D,-
+"",Picape,TOYOTA,HILUX DIESEL 4X4,CC,2.8-16V,Combustão,M-6,S,H,D,,"240,294","39,523",ND,B,\,182,\,\,"10,4","11,6","2,46",B,D,-
+"",Picape,TOYOTA,HILUX DIESEL 4X4,POWER PACK,2.8-16V,Combustão,M-6,S,H,D,,"239,546","32,252",ND,B,\,181,\,\,"10,3","11,8","2,46",B,D,-
+"",Picape,VW,AMAROK,V6 EXTREME CD,3.0-24V,Combustão,A - 8,S,H,D,,"266,400","44,000",ND,B,\,216,\,\,"9,0","9,7","2,92",D,D,-
+"",Picape,VW,AMAROK,V6 COMFORTLINE CD,3.0-24V,Combustão,A - 8,S,H,D,,"266,400","44,000",ND,B,\,216,\,\,"9,0","9,7","2,92",D,D,-
+"",Picape,VW,AMAROK,V6 HIGHLINE CD,3.0-24V,Combustão,A - 8,S,H,D,,"266,400","44,000",ND,B,\,216,\,\,"9,0","9,7","2,92",D,D,-
+"",Comercial,CITROEN,JUMPY,CARGO,1.5 T,Combustão,M-6,S,E,D,,"22,000","35,000",ND,A,\,161,\,\,"12,4","11,9","2,17",A,C,-
+"",Comercial,CITROEN,JUMPY,VITRE,1.5 T,Combustão,M-6,S,E,D,,"22,000","35,000",ND,A,\,161,\,\,"12,4","11,9","2,17",A,C,-
+"",Comercial,CITROEN,JUMPER,CARGOL2,2.2  T,Combustão,M-6,S,H,D,,"10,000","14,000",ND,A,\,200,\,\,"10,0","9,9","2,70",B,D,-
+"",Comercial,CITROEN,JUMPER,CARGOPK,2.2  T,Combustão,M-6,S,H,D,,"10,000","14,000",ND,A,\,200,\,\,"10,0","9,9","2,70",B,D,-
+"",Comercial,CITROEN,JUMPER,FURG PK,2.2  T,Combustão,M-6,S,H,D,,"10,000","14,000",ND,A,\,200,\,\,"10,0","9,9","2,70",B,D,-
+"",Comercial,CITROEN,E-JUMPY,CARGO,Elétrico,Elétrico,A-1,S,E,E,,"0,000","0,000",ND,A,\,0,\,\,"34,4","24,6","0,70",A,A,-
+"",Comercial,FIAT,FIORINO,ENDURANCE,1.4-8V,Combustão,M-5,S,H,F,,"40,545","317,450","1,917",A,0,110,"8,1","8,4","11,7","12,4","1,81",A,C,-
+"",Comercial,FIAT,FIORINO,WORKING,1.4-8V,Combustão,M-5,S,H,F,,"40,545","317,450","1,917",A,0,110,"8,1","8,4","11,7","12,4","1,81",A,C,-
+"",Comercial,FORD,Transit,350 F,2.0 - 16V,Combustão,M-6,S,E,D,,"84,500","92,000",ND,A,\,205,\,\,"10,0","9,2","2,79",C,D,-
+"",Comercial,FORD,Transit,350 FL,2.0 - 16V,Combustão,M-6,S,E,D,,"84,500","92,000",ND,A,\,205,\,\,"10,0","9,2","2,79",C,D,-
+"",Comercial,KIA,BONGO K2500,HD SC,2.5 - 16V,Combustão,M-6,S,H,D,,"263,460","35,520",ND,B,\,196,\,\,"10,4","10,1","2,62",B,D,-
+"",Comercial,Mercedes-Benz,315CDI STREET,Furgão,2.0-16V,Combustão,M-6,S,H,D,,"18,800","106,500",ND,A,\,183,\,\,"10,3","11,8","2,45",B,D,-
+"",Comercial,Mercedes-Benz,315CDI STREET,Chassi,2.0-16V,Combustão,M-6,S,H,D,,"18,800","106,500",ND,A,\,183,\,\,"10,3","11,8","2,45",B,D,-
+"",Comercial,PEUGEOT,EXPERT,CARGO,1.5 T,Combustão,M-6,S,E,D,,"22,000","35,000",ND,A,\,161,\,\,"12,4","11,9","2,17",A,C,-
+"",Comercial,PEUGEOT,EXPERT,VITRE,1.5 T,Combustão,M-6,S,E,D,,"22,000","35,000",ND,A,\,161,\,\,"12,4","11,9","2,17",A,C,-
+"",Comercial,PEUGEOT,BOXER,CARGO L2,2.2 T,Combustão,M-6,S,H,D,,"10,000","14,000",ND,A,\,200,\,\,"10,0","9,9","2,70",B,D,-
+"",Comercial,PEUGEOT,BOXER,CARGO PK,2.2 T,Combustão,M-6,S,H,D,,"10,000","14,000",ND,A,\,200,\,\,"10,0","9,9","2,70",B,D,-
+"",Comercial,PEUGEOT,BOXER,FURGAOPK,2.2 T,Combustão,M-6,S,H,D,,"10,000","14,000",ND,A,\,200,\,\,"10,0","9,9","2,70",B,D,-
+"",Comercial,PEUGEOT,E-EXPERT,CARGO,Elétrico,Elétrico,A-1,S,E,E,,"0,000","0,000",ND,A,\,0,\,\,"34,4","24,6","0,70",A,A,-
+"",Comercial,PEUGEOT,PARTNER RAPID,BUSINS,1.4-8V,Combustão,M-5,S,H,F,,"40,545","317,450","1,917",B,0,110,"8,1","8,4","11,7","12,4","1,81",A,C,-
+"",Comercial,PEUGEOT,PARTNER RAPID,BUSIPK,1.4-8V,Combustão,M-5,S,H,F,,"40,545","317,450","1,917",B,0,110,"8,1","8,4","11,7","12,4","1,81",A,C,-
+"",Comercial,Renault,Master Bus,Minibus Turbo,2.3-16V,Combustão,M-6,S,E -H,D,,"106,600","23,400",ND,A,\,214,\,\,"9,5","9,1","2,89",C,D,-
+"",Comercial,Renault,Master Chassis Cabine,Chassis Cabine Turbo,2.3-16V,Combustão,M-6,S,E -H,D,,"107,800","24,600",ND,A,\,202,\,\,"10,3","9,3","2,72",C,D,-
+"",Comercial,Renault,Master Furgão Pró,Furgão Pró Turbo,2.3-16V,Combustão,M-6,S,E -H,D,,"96,200","26,800",ND,A,\,200,\,\,"10,1","9,8","2,70",B,D,-
+"",Comercial,Renault,Kangoo,MAX ZEP,Elétrico,Elétrico,A,S,E-H,E,,"0,000","0,000","0,000",A,\,0,\,\,"34,5","26,1","0,67",A,A,-
+"",Comercial,Renault,E-KWID,CARGO,Elétrico,Elétrico,A,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"52,7","39,6","0,44",A,A,-
+"",Comercial,Renault,Master Furgão,Furgão Turbo,2.3 - 16V,Combustão,M-5,S,H,D,,"109,600","30,100",ND,A,\,200,\,\,"10,1","9,8","2,70",B,D,-
+"",Esportivo,BMW,M3,Competition,3.0 - 24V,Combustão,A-8,S,E-H,G,,"15,750","72,500","0,400",A,\,170,\,\,"7,3","9,4","2,76",C,D,-
+"",Esportivo,CHEVROLET,CAMARO,2SS CONV,6.2L - 16V,Combustão,A-10,S,E,G,,"44,012","562,023","0,960",B,\,195,\,\,"6,1","9,0","3,15",D,D,-
+"",Esportivo,CHEVROLET,CAMARO,2SS,6.2L - 16V,Combustão,A-10,S,E,G,,"42,677","424,141","0,960",B,\,191,\,\,"6,2","9,4","3,09",D,D,-
+"",Esportivo,FERRARI,ROMA,--,3.9-32V,Combustão,DCT-8,S,E,G,,"19,400","93,100","1,800",A,\,186,\,\,"6,9","8,3","3,00",D,D,-
+"",Esportivo,FERRARI,PORTOFINO,M,3.9-32V,Combustão,DCT-8,S,E,G,,"16,700","196,700","0,200",A,\,188,\,\,"6,7","8,4","3,04",D,D,-
+"",Esportivo,FERRARI,F8,SPIDER,3.9-32V,Combustão,DCT-7,S,E,G,,"39,600","186,200","0,200",A,\,224,\,\,"5,6","7,0","3,68",E,E,-
+"",Esportivo,FERRARI,F8,TRIBUTO,3.9-32V,Combustão,DCT-7,S,E,G,,"39,600","186,200","0,200",A,\,224,\,\,"5,6","7,0","3,68",E,E,-
+"",Esportivo,FERRARI,296,GTB,3.0-24V,Plug-in,DCT-8,S,E,G,,"18,300","443,500","0,500",A,\,149,\,\,"9,9","12,2","2,02",B,C,-
+"",Esportivo,FORD,Mustang,Mach 1,5.0 - 32V,Combustão,A-10,S,E,G,,"34,200","745,300","1,430",B,\,197,\,\,"6,1","8,8","3,19",D,D,-
+"",Esportivo,JAGUAR,F-TYPE,300RD CP,2.0-16V,Combustão,A-8,S,E,G,,"8,340","187,880","0,780",A,\,173,\,\,"7,5","9,7","2,68",C,D,-
+"",Esportivo,JAGUAR,F-TYPE,300RD CB,2.0-16V,Combustão,A-8,S,E,G,,"8,340","187,880","0,780",A,\,173,\,\,"7,5","9,7","2,68",C,D,-
+"",Esportivo,LAMBORGHINI,HURACAN,EVO CP,5.2-40V,Combustão,DCT-7,S,E,G,,"4,800","509,600","2,102",B,\,244,\,\,"5,1","6,8","3,96",E,E,-
+"",Esportivo,LAMBORGHINI,HURACAN,EVO SP,5.2-40V,Combustão,DCT-7,S,E,G,,"4,800","509,600","2,102",B,\,244,\,\,"5,1","6,8","3,96",E,E,-
+"",Esportivo,PORSCHE,911,TURBO S,3.7-24V,Combustão,DCT-8,S,E,G,,"22,100","167,600","0,815",A,\,218,\,\,"5,7","7,5","3,54",E,E,-
+"",Esportivo,PORSCHE,911,TURBO S CA,3.7-24V,Combustão,DCT-8,S,E,G,,"22,100","167,600","0,815",A,\,218,\,\,"5,7","7,5","3,54",E,E,-
+"",Esportivo,PORSCHE,911,TURBO,3.7-24V,Combustão,DCT-8,S,E,G,,"24,800","128,700","0,972",A,\,203,\,\,"6,1","7,9","3,29",D,E,-
+"",Esportivo,PORSCHE,911,TURBO CAB,3.7-24V,Combustão,DCT-8,S,E,G,,"24,800","128,700","0,972",A,\,203,\,\,"6,1","7,9","3,29",D,E,-
+"",Esportivo,PORSCHE,911,GT3,4.0-24V,Combustão,DCT-7,S,E,G,,ND,"220,400","1,255",A,\,215,\,\,"5,9","7,2","3,48",D,E,-
+"",Esportivo,PORSCHE,911,GT3TOURING,4.0-24V,Combustão,DCT-7,S,E,G,,ND,"220,400","1,255",A,\,215,\,\,"5,9","7,2","3,48",D,E,-
+"",Esportivo,PORSCHE,911,Carrera S,3.0-24V,Combustão,DCT-8,S,E,G,,"2,830","89,000","0,990",A,\,173,\,\,"7,3","8,9","2,81",C,D,-
+"",Esportivo,PORSCHE,911,Carrera SC,3.0-24V,Combustão,DCT-8,S,E,G,,"2,830","89,000","0,990",A,\,173,\,\,"7,3","8,9","2,81",C,D,-
+"",Esportivo,PORSCHE,911,Carrera 4GTS,3.0-24V,Combustão,DCT-8,S,E,G,,"2,500","61,000","1,045",A,\,184,\,\,"6,8","8,6","2,98",D,D,-
+"",Esportivo,PORSCHE,911,Carrera GTS,3.0-24V,Combustão,DCT-8,S,E,G,,"2,500","61,000","1,045",A,\,184,\,\,"6,8","8,6","2,98",D,D,-
+"",Esportivo,PORSCHE,911,Carrera GTS CA,3.0-24V,Combustão,DCT-8,S,E,G,,"2,600","71,100","0,895",A,\,181,\,\,"6,9","8,7","2,94",D,D,-
+"",Esportivo,PORSCHE,911,Carrera 4GTS C,3.0-24V,Combustão,DCT-8,S,E,G,,"2,600","71,100","0,895",A,\,181,\,\,"6,9","8,7","2,94",D,D,-
+"",Esportivo,PORSCHE,911,Targa 4GTS,3.0-24V,Combustão,DCT-8,S,E,G,,"2,600","71,100","0,895",A,\,181,\,\,"6,9","8,7","2,94",D,D,-
+"",Esportivo,PORSCHE,911,Targa 50Y,3.0-24V,Combustão,DCT-8,S,E,G,,"2,600","71,100","0,895",A,\,181,\,\,"6,9","8,7","2,94",D,D,-
+"",Esportivo,PORSCHE,911,Carrera,3.0-24V,Combustão,DCT-8,S,E,G,,"25,620","95,600","2,688",A,\,171,\,\,"7,0","9,9","2,77",C,D,-
+"",Esportivo,PORSCHE,911,Carrera C,3.0-24V,Combustão,DCT-8,S,E,G,,"25,620","95,600","2,688",A,\,171,\,\,"7,0","9,9","2,77",C,D,-
+"",Esportivo,PORSCHE,911,Carrera T,3.0-24V,Combustão,DCT-8,S,E,G,,"25,620","95,600","2,688",A,\,171,\,\,"7,0","9,9","2,77",C,D,-
+"",Esportivo,PORSCHE,Boxster,GTS4.0,4.0-24V,Combustão,DCT-7,S,E,G,,"18,123","66,500","1,098",A,\,175,\,\,"7,1","8,9","2,84",C,D,-
+"",Esportivo,PORSCHE,Cayman,GTS 4.0,4.0-24V,Combustão,DCT-7,S,E,G,,"18,123","66,500","1,098",A,\,175,\,\,"7,1","8,9","2,84",C,D,-
+"",Esportivo,PORSCHE,Boxster,Spyder,4.0-24V,Combustão,DCT-7,S,E,G,,"27,333","34,900","1,266",A,\,186,\,\,"6,8","8,4","3,01",D,D,-
+"",Esportivo,PORSCHE,Cayman,GT4,4.0-24V,Combustão,DCT-7,S,E,G,,"27,333","34,900","1,266",A,\,186,\,\,"6,8","8,4","3,01",D,D,-
+"",Esportivo,PORSCHE,Boxster,--,2.0-16V,Combustão,DCT-7,S,E,G,,"5,050","167,000","1,555",A,\,157,\,\,"7,9","10,0","2,55",C,D,-
+"",Esportivo,PORSCHE,Boxster,T,2.0-16V,Combustão,DCT-7,S,E,G,,"5,050","167,000","1,555",A,\,157,\,\,"7,9","10,0","2,55",C,D,-
+"",Esportivo,PORSCHE,Cayman,--,2.0-16V,Combustão,DCT-7,S,E,G,,"5,050","167,000","1,555",A,\,157,\,\,"7,9","10,0","2,55",C,D,-
+"",Esportivo,PORSCHE,Cayman,T,2.0-16V,Combustão,DCT-7,S,E,G,,"5,050","167,000","1,555",A,\,157,\,\,"7,9","10,0","2,55",C,D,-
+"",Esportivo,PORSCHE,Cayman,GT4 RS,4.0-24V,Combustão,DCT-7,S,E,G,,"26,100","107,500","1,296",A,\,224,\,\,"5,6","7,1","3,62",E,E,-
+"",Esportivo,PORSCHE,Panamera,4SEHS,2.9-24V,Plug-in,A-8,S,E,G,,"4,082","66,080","0,900",A,\,61,\,\,"18,3","18,7","1,12",A,A,SIM
+"",Esportivo,PORSCHE,Panamera,4SEHY,2.9-24V,Plug-in,A-8,S,E,G,,"4,082","66,080","0,900",A,\,61,\,\,"18,3","18,7","1,12",A,A,SIM
+"",Esportivo,PORSCHE,Panamera (MY22),TSEHY,4.0-32V,Plug-in,DCT-8,S,E,G,,"2,943","80,100","1,440",A,\,81,\,\,"15,8","16,6","1,30",A,B,SIM
+"",Esportivo,PORSCHE,Panamera (MY22),4EHST,2.9-24V,Plug-in,DCT-8,S,E,G,,"5,400","74,100","1,150",A,\,63,\,\,"17,9","18,5","1,14",A,A,SIM
+"",Esportivo,PORSCHE,Panamera (MY22),4EHYB,2.9-24V,Plug-in,DCT-8,S,E,G,,"5,400","74,100","1,150",A,\,63,\,\,"17,9","18,5","1,14",A,A,SIM
+"",Esportivo,PORSCHE,Taycan,4S,Elétrico,Elétrico,--,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"23,0","22,7","0,89",A,A,-
+"",Esportivo,PORSCHE,Taycan,Turbo,Elétrico,Elétrico,--,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"24,6","23,8","0,84",A,A,-
+"",Esportivo,PORSCHE,Taycan,Turbo S,Elétrico,Elétrico,--,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"23,5","22,9","0,87",A,A,-
+"",Esportivo,PORSCHE,Taycan,--,Elétrico,Elétrico,--,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"22,4","23,5","0,89",A,A,-
+"",Esportivo,PORSCHE,Taycan,4CT,Elétrico,Elétrico,--,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"23,0","22,1","0,90",A,A,-
+Esportivo,PORSCHE,Taycan,4GTS,Elétrico,Elétrico,--,S,E,E,,"0,000","0,000","0,000",A,\,0,\,\,"26,4","24,9","0,79",A,A,,
+"",Esportivo,PORSCHE,Boxster,--,2.0-16V,Combustão,DCT-7,S,E,G,,"5,050","167,000","1,555",A,\,157,\,\,"7,9","10,0","2,55",C,D,-
+"",Esportivo,PORSCHE,Boxster,T,2.0-16V,Combustão,DCT-7,S,E,G,,"5,050","167,000","1,555",A,\,157,\,\,"7,9","10,0","2,55",C,D,-
+"",Esportivo,PORSCHE,Cayman,--,2.0-16V,Combustão,DCT-7,S,E,G,,"5,050","167,000","1,555",A,\,157,\,\,"7,9","10,0","2,55",C,D,-
+"",Esportivo,PORSCHE,Cayman,T,2.0-16V,Combustão,DCT-7,S,E,G,,"5,050","167,000","1,555",A,\,157,\,\,"7,9","10,0","2,55",C,D,-
+"",Esportivo,PORSCHE,Cayman,GT4 RS,4.0-24V,Combustão,DCT-7,S,E,G,,"26,100","107,500","1,296",A,\,224,\,\,"5,6","7,1","3,62",E,E,-
+"",Esportivo,PORSCHE,Panamera,4SEHS,2.9-24V,Plug-in,A-8,S,E,G,,"4,082","66,080","0,900",A,\,61,\,\,"18,3","18,7","1,12",A,A,SIM
+"",Esportivo,PORSCHE,Panamera,4SEHY,2.9-24V,Plug-in,A-8,S,E,G,,"4,082","66,080","0,900",A,\,61,\,\,"18,3","18,7","1,12",A,A,SIM
+"",Esportivo,PORSCHE,Panamera (MY22),TSEHY,4.0-32V,Plug-in,DCT-8,S,E,G,,"2,943","80,100","1,440",A,\,81,\,\,"15,8","16,6","1,30",A,B,SIM
